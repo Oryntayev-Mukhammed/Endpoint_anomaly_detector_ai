@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 import json
-from datetime import date
+from datetime import date, datetime
 from dateutil.relativedelta import relativedelta
 import uuid
 
@@ -27,7 +27,7 @@ def fetch_api_data(endpoint):
         return response.json()
     except requests.exceptions.RequestException as e:
         st.error(f"Ошибка запроса к {endpoint}: {e}")
-        return []
+        return {"accounts": []}
 
 # Получение счетов
 accounts_data = fetch_api_data("/api/account/accounts")
@@ -66,15 +66,20 @@ knp = knp_options[knp_selected]
 # Остальные поля
 transaction_id = f"APP_INDNTRTAX_{uuid.uuid4()}"
 amount = st.number_input("Сумма платежа", 100.0, 1000000.0, 1000.0)
-purpose = st.text_input("Назначение", knp['knpName'])
-period = st.date_input("Период", value=date.today().replace(day=1) - relativedelta(months=1))
 
-# BIN если нужно
-bin_code = None
+purpose = st.text_input("Назначение", knp['knpName'])
+
+kbk_code_str = str(kbk["code"])
+quarter_options = ["FIRST", "SECOND", "THIRD", "FOURTH"]
+if kbk_code_str.startswith('1'):
+    period = st.selectbox("Квартал", quarter_options)
+else:
+    period = st.date_input("Период", value=date.today().replace(day=1) - relativedelta(months=1)).isoformat()
+
 if kbk.get("ugdLoadingRequired"):
     ugd_options = {f"{u['name']} ({u['code']})": u for u in ugd_list}
     ugd_selected = st.selectbox("Выберите УГД", ugd_options.keys())
-    bin_code = ugd_options[ugd_selected]["bin"]
+    ugd = ugd_options[ugd_selected]
 
 if st.button("📊 Рассчитать комиссию и отправить платёж"):
     commission_payload = [{
@@ -108,11 +113,17 @@ if st.button("📊 Рассчитать комиссию и отправить �
         },
         "knp": knp["knpCode"],
         "purpose": purpose,
-        "period": period.isoformat(),
         "taxesPaymentOperationType": selected_operation_type
     }
-    if bin_code:
-        payload["bin"] = bin_code
+
+    if kbk_code_str.startswith('1'):
+        payload["quarter"] = period
+        payload['year'] = datetime.today().year - 1
+    else:
+        payload["period"] = period
+
+    if kbk.get("ugdLoadingRequired"):
+            payload["ugd"] = ugd
 
     st.subheader("📦 Payload платежа")
     st.json(payload)
