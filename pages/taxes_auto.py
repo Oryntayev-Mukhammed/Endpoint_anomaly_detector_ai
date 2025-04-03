@@ -349,7 +349,7 @@ if st.button("Запустить итерационные тесты"):
 
         styled_df = df_results.style.map(color_status, subset=['Commission Status', 'Payment Status'])
         table_placeholder.dataframe(styled_df, height=500)
-        # Добавим небольшую задержку для наглядности обновления (не обязательно)
-        time.sleep(0.001)
+        # # Добавим небольшую задержку для наглядности обновления (не обязательно)
+        # time.sleep(0.001)
     
     progress_text.text("Итерационные тесты завершены.")

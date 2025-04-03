@@ -9674,5 +9674,5992 @@
         "code": "710606"
       }
     }
+  },
+  {
+    "timestamp": "2025-04-02T18:58:37.304503",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e319b0e6-3618-422e-a726-f7da46f0b96b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3262.73,
+      "kbk": {
+        "name": "Плата за пользование животным миром",
+        "code": 105311,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_7646",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "960540000294",
+        "name": "РГУ \"УГД по Меркенскому району ДГД по Жамбылской области КГД МФ РК\"",
+        "code": "210601"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T18:58:46.522736",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_edcec903-150d-42fd-9d7d-42d29817696f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8454.68,
+      "kbk": {
+        "name": "Рентный налог на экспорт, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105307,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_4829",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "030140003012",
+        "name": "Зеренді ауданының Викторовка ауылдық округі әкімінің аппараты ММ",
+        "code": "032302"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T18:58:56.147536",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_3e6d2ae7-eca4-46b0-9f95-040e9d74c649",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8769.45,
+      "kbk": {
+        "name": "Налог на добычу пол-х иск-х, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105306,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_8133",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "130740011610",
+        "name": "Науырзым ауданының Дәмді ауылдық округі әкімінің аппараты ММ",
+        "code": "391006"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T18:59:06.482628",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_fe07e091-e4ce-43f8-a891-cf85b52af815",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5150.02,
+      "kbk": {
+        "name": "Плата за лесные пользования",
+        "code": 105304,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_5659",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240007042",
+        "name": "ГУ Аппарат акима Шалгайский сельский округ района Бәйтерек",
+        "code": "270709"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T18:59:15.904479",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_80111e68-14b9-4a0c-93cf-275b4552a140",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2164.13,
+      "kbk": {
+        "name": "НДС на электронную торговлю с иностранных интернет компаний",
+        "code": 105116,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8184",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240003595",
+        "name": "Казталов ауданының Қарасу ауылдық округі әкімінің аппараты ММ",
+        "code": "270816"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T18:59:24.494618",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_42565a53-3041-4c3d-ae92-dbf04e052f60",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 930.86,
+      "kbk": {
+        "name": "Суммы % за проср. за неисп, непол. и(или) несвоев. исп. обяз.по перечис. сумм от распред. ввоз. ТП",
+        "code": 106109,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_2305",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-25",
+      "ugd": {
+        "bin": "940140002311",
+        "name": "ГУ \"Аппарат акима Унгуртасского сельского округа\"",
+        "code": "090309"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T18:59:34.414302",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_7676aebc-3830-4964-9025-db3182614977",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8376.97,
+      "kbk": {
+        "name": "ТП, распределенные РФ",
+        "code": 106106,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9106",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-01",
+      "ugd": {
+        "bin": "910740000123",
+        "name": "РГУ \"УГД по Медеускому району ДГД по городу Алматы КГД МФ РК\"",
+        "code": "600901"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T18:59:45.361597",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_119c12f2-3eda-4451-ac93-36cbfa1d3852",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2429.63,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат., алк. прод., ввоз. на терр-ю РК с терр-и гос.- членов ТС",
+        "code": 105277,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9515",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-03",
+      "ugd": {
+        "bin": "961240001620",
+        "name": "ГУ \"Аппарат акима поселка Саяк\"",
+        "code": "302503"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T18:59:53.396256",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_28db45f3-1719-41d4-8467-98d138e334a2",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4096.37,
+      "kbk": {
+        "name": "Рентный налог на экспорт, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105307,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_6071",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "941240001548",
+        "name": "ГУ Аппарат акима Коларыкский сельский округ Казалинского района",
+        "code": "330305"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:00:04.114926",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_509142dc-6ed8-4b08-a122-932f2c008414",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4834.57,
+      "kbk": {
+        "name": "ТП, распределенные Республикой Армения",
+        "code": 106113,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_4848",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-02",
+      "ugd": {
+        "bin": "001040002810",
+        "name": "ГУ Аппарат акима Байкошкарский сельский округ Аягозского района",
+        "code": "710321"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:00:14.404756",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_2a1cbd13-9e60-4b42-a66b-c23f8cb631d7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7863.12,
+      "kbk": {
+        "name": "Налог на добычу пол-х иск-х, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105306,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4706",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240004781",
+        "name": "ГУ Аппарат акима Косщинский сельский округ Таскалинского района",
+        "code": "271205"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:00:24.298149",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_6e1b4375-41ee-4208-9063-2f745f006f34",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9552.94,
+      "kbk": {
+        "name": "Суммы распред. ввоз.ТП, перечис. кот. приостановлено",
+        "code": 106108,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3138",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-13",
+      "ugd": {
+        "bin": "000240002429",
+        "name": "ГУ \"Аппарат акима города Державинска\"",
+        "code": "031702"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:00:32.666434",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e3d6d5cc-45aa-4efa-bd2a-d36b4a5386f0",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 567.9,
+      "kbk": {
+        "name": "СО в свою пользу",
+        "code": 902101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "012",
+      "purpose": "Основное_4689",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-11"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:00:42.372523",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1b6afbba-d6a8-4ff0-b166-a066dadbeb5c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5472.52,
+      "kbk": {
+        "name": "Социальный налог (полугодовой)",
+        "code": 103101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5176",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-16",
+      "ugd": {
+        "bin": "970440001558",
+        "name": "ГУ Аппарат акима Набережный сельский округ района Беимбета Майлина",
+        "code": "391311"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:00:57.428606",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_031d927b-2dc0-4954-8db2-11fe2e3e7cb9",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 826.26,
+      "kbk": {
+        "name": "Плата за использование особо охраняемых природных территорий местного значения",
+        "code": 105314,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_2585",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "200140024626",
+        "name": "ГУ Аппарат акима Федоровский сельский округ Узункольского района",
+        "code": "390915"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:01:16.430416",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8360d34d-fc6c-4d47-bdfe-cc06eeb0326e",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3237.91,
+      "kbk": {
+        "name": "Доля РК по разделу прод. по заключ-м ктр от организаций нефт-го сектора",
+        "code": 105328,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5475",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "050140005290",
+        "name": "ГУ Аппарат акима село Первомайское Аулиекольского района",
+        "code": "391203"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:01:38.189611",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5f25dd00-02ee-4161-8fb4-3539d288f143",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7429.85,
+      "kbk": {
+        "name": "Вз-е суммы обес-я упл. ТП, налогов, пост-е от Кыргызской Республики",
+        "code": 106118,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_2778",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-23",
+      "ugd": {
+        "bin": "050240005680",
+        "name": "ГУ Аппарат акима Жетикольский сельский округ Сырымского района",
+        "code": "271108"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:01:47.726074",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5fcdc1d9-fa79-4464-b7a2-2e16feeb1c0a",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4484.71,
+      "kbk": {
+        "name": "Доля РК по разделу прод. по заключ-м ктр от организаций нефт-го сектора",
+        "code": 105328,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_6480",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "970140003266",
+        "name": "ГУ Аппарат акима Михайловский сельский округ Карабалыкского района",
+        "code": "390709"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:01:56.434094",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_cf3b24d8-4a7e-4eb9-bc10-9093057361cb",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5998.57,
+      "kbk": {
+        "name": "Таб. изд, легк. авто (кр.авто. с руч. упр. или адаптером руч. упр., спец. предназ-х для инвал), произ-х на терр. РК",
+        "code": 105275,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8518",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-25",
+      "ugd": {
+        "bin": "980640000955",
+        "name": "РГУ \"УГД по Иргизскому району ДГД по Актюбинской области КГД МФ РК\"",
+        "code": "060701"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:02:03.857000",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_69383496-d1c3-49c4-9620-994beb2ac903",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 356.06,
+      "kbk": {
+        "name": "ТП, распределенные РФ",
+        "code": 106106,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8232",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-14",
+      "ugd": {
+        "bin": "971040001576",
+        "name": "ГУ Аппарат акима Коктерекский сельский округ Уалихановского района",
+        "code": "481908"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:02:17.414825",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_358c78df-4bd6-4f38-8984-6744581674dc",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4624.04,
+      "kbk": {
+        "name": "Плата за использование особо охраняемых природных территорий местного значения",
+        "code": 105314,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5614",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "980840002929",
+        "name": "ГУ Аппарат акима Кунарлинский сельский округ Бородулихинского района",
+        "code": "710502"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:02:26.865289",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_3d2b0cf2-239d-4d11-9f38-3508445baf84",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3300.5,
+      "kbk": {
+        "name": "Плата за использование особо охраняемых природных территорий республиканского значения",
+        "code": 105313,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_7335",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240004927",
+        "name": "ГУ Аппарат акима Буланский сельский округ Сырымского района",
+        "code": "271105"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:02:39.905323",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_af6a5715-5f4a-4b1a-b532-1c4447652dea",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2139.92,
+      "kbk": {
+        "name": "Обязательные пенсионные взносы работодателя",
+        "code": 905101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "098",
+      "purpose": "Основное_3111",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-20"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:02:50.042318",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1b33304a-2827-4934-aed7-a55138a04bba",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7491.8,
+      "kbk": {
+        "name": "Рентный налог на экспорт от организаций нефтяного сектора",
+        "code": 105327,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4786",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "970240003517",
+        "name": "ГУ Аппарат акима Ортауский сельский округа Шетского района",
+        "code": "302421"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:02:59.721577",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d2551348-eb01-4df7-bb6f-87b0117250fe",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4599.6,
+      "kbk": {
+        "name": "ТП, нал. на ввоз. ф/л товары для лич. пол. с прим. ед-х ставок ТП, налогов",
+        "code": 106104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_2449",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-28",
+      "ugd": {
+        "bin": "000540003547",
+        "name": "ГУ \"Аппарат акима Тургайского сельского округа\" Ерейментауского района Акмолинской области",
+        "code": "030713"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:03:09.561379",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_7b26679b-7b02-401e-94b7-5ce3405f56fa",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1060.48,
+      "kbk": {
+        "name": "НДС за нерезидента",
+        "code": 105104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_3298",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "980840003263",
+        "name": "ГУ \"Аппарат акима Соловьевского сельского округа Зыряновского района Восточно-Казахстанской области\"",
+        "code": "181316"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:03:19.947346",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_08be7607-09e7-46e2-a820-83e25eaceb6c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4023.49,
+      "kbk": {
+        "name": "Платеж по возмещению исторических затрат",
+        "code": 105319,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8706",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "031140003759",
+        "name": "КГУ \"Аппарат акима Соколовского сельского округа Кызылжарского района Северо-Казахстанской области\"",
+        "code": "480202"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:03:30.232705",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_ea9d1fec-3640-46ca-9657-68a7bfa48240",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 230.22,
+      "kbk": {
+        "name": "Социальный налог (полугодовой)",
+        "code": 103101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1349",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-10",
+      "ugd": {
+        "bin": "050440006963",
+        "name": "ГУ \"Аппарат акима Рахатского сельского округа\"",
+        "code": "091221"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:03:38.915567",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_353d47dc-d386-4d21-99c9-cc47105270f9",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2918.2,
+      "kbk": {
+        "name": "Вывозные ТП на сырую нефть",
+        "code": 106110,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3414",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-21",
+      "ugd": {
+        "bin": "030640003566",
+        "name": "ГУ Аппарат акима Карасайский аульный округ Аккольского района",
+        "code": "030206"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:03:48.303038",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_b3c1ea37-6f68-4d19-851d-094b3d4f4709",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7751.46,
+      "kbk": {
+        "name": "Доля РК по разделу прод. по закл. ктр., за иск. поступ. от орг. нефт. сектора",
+        "code": 105308,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3039",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "950140001177",
+        "name": "КГУ \"Аппарат акима сельского округа Актобе\"",
+        "code": "330407"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:03:57.859366",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_60e5e8a1-06db-4482-8b80-f8df8657efdf",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2446.65,
+      "kbk": {
+        "name": "Бонусы, за исключением поступлений от организаций нефтяного сектора",
+        "code": 105305,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_9355",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "030240004074",
+        "name": "ГУ Аппарат акима Аралкумский сельский округ Аральского района",
+        "code": "330204"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:04:07.914690",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_717864e7-379c-4a25-ad92-8b2c4eb6ffe6",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9653.59,
+      "kbk": {
+        "name": "Бензин (за искл.авиац.) и диз. топ-во, имп. на терр. РК с терр. гос., не явл. чл. ТС",
+        "code": 105283,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_6215",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-14",
+      "ugd": {
+        "bin": "970140003404",
+        "name": "ГУ Аппарат акима Кеншокинский сельский округ Шетского района",
+        "code": "302406"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:04:17.558059",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_cf08e0c6-fa21-4fde-b8b7-bca7ee13faad",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4223.98,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат., алк. прод., импорт. на терр. РК с терр. гос., не явл. чл.ТС",
+        "code": 105280,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_5625",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-27",
+      "ugd": {
+        "bin": "971040001665",
+        "name": "ГУ Аппарат акима Бесобинский сельский округ Каркаралинского района",
+        "code": "300520"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:04:27.194793",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_6731dc2a-f796-4954-b962-c479fe58f201",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7240.27,
+      "kbk": {
+        "name": "ИПН с доходов, не облагаемых у источника выплаты (полугодовой)",
+        "code": 101202,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1031",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-12",
+      "ugd": {
+        "bin": "940140000890",
+        "name": "КГУ \"Аппарат акима сельского округа Шаган\"",
+        "code": "330603"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:04:38.826958",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_039dcc6d-d7b5-4505-b373-0b7785ea2377",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6777.52,
+      "kbk": {
+        "name": "Бонусы от организаций нефтяного сектора",
+        "code": 105325,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6860",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "050140002197",
+        "name": "ГУ Аппарат акима село Аралбай Джангельдинского района",
+        "code": "392309"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:04:49.065029",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1d4cf740-d4cc-4bc0-8517-4792849c050c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4532.74,
+      "kbk": {
+        "name": "Прочие поступления от недропользователей",
+        "code": 105330,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4829",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "970140001567",
+        "name": "ГУ \"Аппарат акима Пешковского сельского округа Федоровского района\"",
+        "code": "391512"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:04:57.747153",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d2f52c22-0b4c-4942-a014-4bd239e41c38",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8979.09,
+      "kbk": {
+        "name": "Совокупный таможенный платеж на ввозимые товары",
+        "code": 106105,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_6422",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-03",
+      "ugd": {
+        "bin": "980840003987",
+        "name": "ГУ Аппарат акима Жарыкский сельский округ Жарминского района",
+        "code": "710610"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:05:07.787164",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a790cdae-4e72-467d-86e7-63ed8e77db32",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4063.8,
+      "kbk": {
+        "name": "Прочие поступления от недропользователей",
+        "code": 105330,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_3958",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "030140003305",
+        "name": "ГУ Аппарат акима село Гастелло Жаркаинского района",
+        "code": "031715"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:05:17.093295",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d0845b81-96c4-4826-83ad-cea9fc1fd73d",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9815.94,
+      "kbk": {
+        "name": "Таб. изд., ввоз. на терр. РК с терр. гос-в-членов ТС",
+        "code": 105276,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1459",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-21",
+      "ugd": {
+        "bin": "001240004150",
+        "name": "ГУ \"Аппарат акима сельского округа Алтынтобе\"",
+        "code": "580803"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:05:26.044588",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_830a2d9c-f4ec-4292-b86f-d52a0c7bb40d",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8097.48,
+      "kbk": {
+        "name": "Прочие поступления от недропользователей",
+        "code": 105330,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_4646",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "980840003174",
+        "name": "ГУ Аппарат акима Жогаргы Егинсуйский сельский округ Урджарского района",
+        "code": "710809"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:05:34.239136",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a41b8f4d-c9b0-4bd7-aa2f-3168c4cb0580",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1204.65,
+      "kbk": {
+        "name": "ТС, упл. в соот. с тамож. зак-м РК",
+        "code": 106201,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_6624",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-01",
+      "ugd": {
+        "bin": "930440000493",
+        "name": "КГУ \"Аппарат акима поселка Тасбугет города Кызылорды\" акимата города Кызылорда",
+        "code": "331005"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:05:43.504614",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_fde5d32f-3398-436b-8951-1292186d0193",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2113.21,
+      "kbk": {
+        "name": "Суммы распред. ввоз.ТП, перечис. кот. приостановлено",
+        "code": 106108,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1797",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-10",
+      "ugd": {
+        "bin": "990240006862",
+        "name": "ГУ \"Аппарат акима сельского округа Жанажол\"",
+        "code": "581022"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:05:52.106013",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_9f1b5477-8f6a-4040-acc9-0c524a7fe7d6",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3612.87,
+      "kbk": {
+        "name": "Прочие поступления от недропользователей",
+        "code": 105330,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_2628",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "001240003767",
+        "name": "ГУ«Аппарат акима Верхне Аксуского сельского округа Толебийского района»",
+        "code": "580912"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:06:02.411699",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8128e2fc-b4cd-459b-8870-ee82de33a906",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6713.02,
+      "kbk": {
+        "name": "Бензин (за искл. авиац.) и диз. топ., произ. на терр. РК",
+        "code": 105284,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_6389",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-14",
+      "ugd": {
+        "bin": "030340003179",
+        "name": "ГУ Аппарат акима Валихановский сельский округ района Биржан сал",
+        "code": "032509"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:06:13.581174",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_85d59e4a-ed42-41b9-a5a2-c691dd5af437",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6170.12,
+      "kbk": {
+        "name": "НДС на товары, импортируемые в РК. Исключая РФ и РБ",
+        "code": 105102,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3095",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "000640001990",
+        "name": "ГУ Аппарат акима  Новорыбинский сельский округ Аккольского района",
+        "code": "030203"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:06:22.371315",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_2c217735-65be-469e-87eb-3dba7d2a7ee3",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7943.58,
+      "kbk": {
+        "name": "Аван. плат, вн. в соот. с там. закон. ЕЭС и РК, в сч упл. пред. ТП, нал, спец., антидемп., компенс. пошлин, а т.ж в кач. обес. исп. обяз. по уплате ТП, нал, спец, антидемп., компен. пошлин",
+        "code": 106119,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_3798",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-22",
+      "ugd": {
+        "bin": "970440001558",
+        "name": "ГУ Аппарат акима Набережный сельский округ района Беимбета Майлина",
+        "code": "391311"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:06:32.422462",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_bbe5f7d6-b4d0-40d1-87cb-643cd6b3106d",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9881.19,
+      "kbk": {
+        "name": "Рентный налог на экспорт от организаций нефтяного сектора",
+        "code": 105327,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_8969",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "980240002005",
+        "name": "ГУ \"Аппарат акима села Иртышск\"",
+        "code": "450602"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:06:45.085278",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_85cef547-6054-4f63-8417-6ba87f175c8c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6911.35,
+      "kbk": {
+        "name": "Плата за поль-е водными рес-ми поверхностных ист-в",
+        "code": 105303,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_7599",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "940540000885",
+        "name": "ГУ Аппарат акима Кайрактинский сельский округ Айтекебийского района",
+        "code": "060609"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:06:55.659202",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_9807f210-7060-4958-a742-775903ed73ae",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2255.83,
+      "kbk": {
+        "name": "Бонусы от организаций нефтяного сектора",
+        "code": 105325,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1198",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "001240003589",
+        "name": "ГУ«Аппарат акима Когалинского сельского округа Толебийского района»",
+        "code": "580904"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:07:06.465100",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_3e58cd1d-3118-4edc-809a-c19885271f49",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2748.22,
+      "kbk": {
+        "name": "Пр. виды подакцизных прод., импор. на терр. РК с терр. гос-в, не явл. чл. ТС",
+        "code": 105282,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8810",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-05",
+      "ugd": {
+        "bin": "050140005280",
+        "name": "ГУ \"Аппарат акима Мичуринского сельского округа Костанайского района\"",
+        "code": "390811"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:07:16.183481",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_005d80dc-2100-472b-a57c-376d11f6fb0e",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5304.15,
+      "kbk": {
+        "name": "Рентный налог на экспорт от организаций нефтяного сектора",
+        "code": 105327,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_2718",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "970140001527",
+        "name": "ГУ Аппарат акима Вишневый сельский округ Федоровского района",
+        "code": "391503"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:07:50.757007",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1748371f-9110-4146-abad-5815a9719769",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2944.71,
+      "kbk": {
+        "name": "Доля РК по разделу прод. по заключ-м ктр от организаций нефт-го сектора",
+        "code": 105328,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5757",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "000440003622",
+        "name": "ГУ Аппарат акима Бестогайский сельский округ Ерейментауского района",
+        "code": "030705"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:08:00.655133",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_58ef9908-3ab6-44c3-a433-a88bf9fc16d3",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5109.96,
+      "kbk": {
+        "name": "Пр. виды подакцизных прод., импор. на терр. РК с терр. гос-в, не явл. чл. ТС",
+        "code": 105282,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_7382",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-07",
+      "ugd": {
+        "bin": "050240007518",
+        "name": "ГУ \"Аппарат акима Подстепновского сельского округа\"",
+        "code": "271403"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:08:10.866144",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8d460c8c-3328-41d4-a4be-0b7b5d135a4b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9022.74,
+      "kbk": {
+        "name": "Налог на имущество",
+        "code": 104101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4216",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "050240007578",
+        "name": "ГУ Аппарат акима Чижинский сельский округ Таскалинского района",
+        "code": "271209"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:08:23.452260",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f75a9591-c3ff-455c-b9d8-07a5a0b722cd",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3790.11,
+      "kbk": {
+        "name": "Вз. суммы обес. упл. ТП, нал., пост. из Республики Беларусь",
+        "code": 106115,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8666",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-12",
+      "ugd": {
+        "bin": "980840003342",
+        "name": "ГУ \"Аппарат акима Новошульбинского сельского округа Бородулихинского района Восточно-Казахстанской области\"",
+        "code": "710508"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:08:33.071177",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_6a97c553-ad54-4b53-bb35-40f642eae3d7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9525.12,
+      "kbk": {
+        "name": "ИПН с доходов, не облагаемых у источника выплаты (полугодовой)",
+        "code": 101202,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1645",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-06",
+      "ugd": {
+        "bin": "050240004915",
+        "name": "ГУ Аппарат акима Талдыбулакский сельский округ Сырымского района",
+        "code": "271112"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:08:43.561712",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_0c5a8bcd-e225-4643-aaff-5e763897cb6c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2634.1,
+      "kbk": {
+        "name": "Доля РК по разделу прод. по заключ-м ктр от организаций нефт-го сектора",
+        "code": 105328,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_9037",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "061140006570",
+        "name": "ГУ \"Аппарат акима Когамского сельского округа\" акимата Отырарского района",
+        "code": "580503"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:08:52.104568",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a81b7838-6316-4111-b376-490a09214d0d",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7282.54,
+      "kbk": {
+        "name": "Плата за использование особо охраняемых природных территорий местного значения",
+        "code": 105314,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9920",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "931240000924",
+        "name": "ГУ Аппарат акима Акниетский сельский округ Т.Рыскуловского района",
+        "code": "210502"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:09:01.154842",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_326a3d71-74b0-4107-afa6-543b285470ed",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 249.99,
+      "kbk": {
+        "name": "Вз. суммы обес. упл. ТП, налогов, поступ. из РФ",
+        "code": 106114,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1386",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-10",
+      "ugd": {
+        "bin": "540640000042",
+        "name": "ГУ Аппарат акима Мичуринский сельский округ Тимирязевского района",
+        "code": "481312"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:09:11.303298",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_4e6a28cc-989a-4adf-93f2-a16c336c74bd",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2280.56,
+      "kbk": {
+        "name": "Таможенные пошлины на вывозимые товары",
+        "code": 106102,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9972",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-22",
+      "ugd": {
+        "bin": "990940001897",
+        "name": "КГУ \"Аппарат акима Ушаралского сельского округа Таласского района\"",
+        "code": "211006"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:09:20.452965",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_b5d9a95a-ec8e-4e37-bc89-b5878cf2c7c4",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4676.07,
+      "kbk": {
+        "name": "ТП на ввоз. тов. и(или) ввоз. ТП, обяз-ть по упл. кот. возникла до вст. в силу Согл. об уст. и прим. в ТС пор. зачис. и распр. ввоз. ТП (иных пошлин, нал.и сборов, им. эквив. д-е)",
+        "code": 106112,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3500",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-29",
+      "ugd": {
+        "bin": "020340001478",
+        "name": "ГУ Аппарат акима Карагашский сельский округ Алгинского района",
+        "code": "060407"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:09:32.382418",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f16bdb56-1551-424b-92d0-82658484884d",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8846.3,
+      "kbk": {
+        "name": "Плата за использование радиочастотного спектра",
+        "code": 105309,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9639",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "021040003069",
+        "name": "ГУ \"Аппарат акима Жалтырского сельского округа Астраханского района\"",
+        "code": "030304"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:09:41.399575",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_721a2ea9-2e50-4e7a-81f8-8620209ef60f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1119.1,
+      "kbk": {
+        "name": "Плата за использование особо охраняемых природных территорий республиканского значения",
+        "code": 105313,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9415",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240005908",
+        "name": "ГУ Аппарат акима Долинский сельский округ Теректинского района",
+        "code": "271414"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:09:51.443684",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_54e8ac9e-744b-425f-88e1-88c8cd725ecf",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8850.49,
+      "kbk": {
+        "name": "Социальный налог (ежемесячный)",
+        "code": 103101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_7572",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-27",
+      "ugd": {
+        "bin": "020740002014",
+        "name": "ГУ Аппарат акима Кокталский сельский округ Таласского района",
+        "code": "211015"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:10:03.657055",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a8acd5b7-1e9b-4384-a8b0-c64632473cfe",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4083.86,
+      "kbk": {
+        "name": "Совокупный таможенный платеж на ввозимые товары",
+        "code": 106105,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_6858",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-22",
+      "ugd": {
+        "bin": "130340023332",
+        "name": "ГУ Аппарат акима Желтурангинский сельский округ Балхашского района",
+        "code": "090206"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:10:14.777172",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a1f013ba-f879-4d28-89cf-5ea9eaed1a14",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5044.69,
+      "kbk": {
+        "name": "Пр. виды подакцизной прод., ввоз. на терр. РК с терр. гос.-чл. ТС",
+        "code": 105278,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_8838",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-14",
+      "ugd": {
+        "bin": "980840003749",
+        "name": "ГУ \"Аппарат акима Тугылского сельского округа Тарбагатайского района Восточно-Казахстанской области\"",
+        "code": "181017"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:10:27.056104",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_91aa27af-7d33-4fe1-92f1-eace6c18af9b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6965.58,
+      "kbk": {
+        "name": "ТП, распределенные РФ",
+        "code": 106106,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_7382",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-27",
+      "ugd": {
+        "bin": "030140003354",
+        "name": "ГУ Аппарат акима село Ушкарасу Жаркаинского района",
+        "code": "031712"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:10:38.246026",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_7ef75d2d-6c92-4574-981f-60bf1a330991",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4433.2,
+      "kbk": {
+        "name": "Прочие поступления от недропользователей",
+        "code": 105330,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_9240",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240006153",
+        "name": "ГУ Аппарат акима Муратсайский сельский округ Бокейординского района",
+        "code": "271506"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:11:10.153777",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_ffd51d25-4020-4a0a-8d9c-c8495f38c457",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2432.39,
+      "kbk": {
+        "name": "Совокупный таможенный платеж на ввозимые товары",
+        "code": 106105,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1504",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-05",
+      "ugd": {
+        "bin": "950540000847",
+        "name": "ГУ Аппарат акима Село Ткенекты Нуринского района",
+        "code": "300825"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:11:28.425378",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8ccfb1f8-7f6d-4f31-9390-e9dc27a0ce76",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 994.14,
+      "kbk": {
+        "name": "Налог на добычу полезных ископаемых от организаций нефтяного сектора",
+        "code": 105326,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_4632",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "001240004379",
+        "name": "ГУ \"Аппарат акима сельского округа Женис\"",
+        "code": "580304"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:11:39.844922",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f7f35d07-adc8-48a5-be6b-e4026b2dd5b6",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5565.55,
+      "kbk": {
+        "name": "Суммы распред. ввоз.ТП, перечис. кот. приостановлено",
+        "code": 106108,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4730",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-09",
+      "ugd": {
+        "bin": "090440021657",
+        "name": "РГУ \"УГД по городу Кызылорда ДГД по Кызылординской области КГД МФ РК\"",
+        "code": "331001"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:11:51.734524",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_709e5fa9-2b03-4391-9845-a95f7decff18",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6897.72,
+      "kbk": {
+        "name": "ТС, упл. в соот. с тамож. зак-м РК",
+        "code": 106201,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_4174",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-25",
+      "ugd": {
+        "bin": "050240006450",
+        "name": "ГУ Аппарат акима Бумакольский сельский округ  Бурлинского района",
+        "code": "270306"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:12:09.734206",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1c65caa6-b53c-4f95-a364-a672b0a098b7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4939.71,
+      "kbk": {
+        "name": "Налог на сверхприбыль от организаций нефтяного сектора",
+        "code": 105322,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9280",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "991240004705",
+        "name": "ГУ \"Аппарат акима села Таушык\"",
+        "code": "430507"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:12:23.157484",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d3bcb1ee-fc3b-4670-afb3-ececfb4ea00a",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6289.46,
+      "kbk": {
+        "name": "Суммы распред. ввоз.ТП, перечис. кот. приостановлено",
+        "code": 106108,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1322",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-05",
+      "ugd": {
+        "bin": "990240007484",
+        "name": "ГУ \"Аппарат акима сельского округа Иржар\"",
+        "code": "581023"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:12:35.536218",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_9025f782-8a40-425c-be3c-0710784d1fce",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1354.93,
+      "kbk": {
+        "name": "Таб. изд, легк. авто (кр.авто. с руч. упр. или адаптером руч. упр., спец. предназ-х для инвал), произ-х на терр. РК",
+        "code": 105275,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_2042",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-23",
+      "ugd": {
+        "bin": "940240000696",
+        "name": "КГУ \"Аппарат акима Жанатоганского сельского округа Меркенского района\"",
+        "code": "210607"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:12:48.042075",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_cba22f27-de9a-4d5e-b824-24d27abf6e38",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3829.8,
+      "kbk": {
+        "name": "НДС на электронную торговлю с иностранных интернет компаний",
+        "code": 105116,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5520",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "000240004405",
+        "name": "ГУ \"Аппарат акима сельского округа Достык\"",
+        "code": "581003"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:12:57.546098",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d8175a93-3746-47bd-8849-a4c4a9ff0274",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3966.07,
+      "kbk": {
+        "name": "НДС за нерезидента",
+        "code": 105104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4503",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "990640003496",
+        "name": "ГУ Аппарат акима Шалдайский сельский округ Щербактинского района",
+        "code": "451208"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:13:08.039881",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_65287b08-9261-40ce-b1da-544da15cc1ed",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6112.1,
+      "kbk": {
+        "name": "Налог на добычу полезных ископаемых от организаций нефтяного сектора",
+        "code": 105326,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5759",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "961240002679",
+        "name": "ГУ \"Аппарат Акима Аманкольского сельского округа\"",
+        "code": "060707"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:13:18.234083",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_93acfeb3-8f81-42c5-b5e1-20b9aa49dc63",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1958.28,
+      "kbk": {
+        "name": "ТП, распред. Кыргызской Республикой",
+        "code": 106117,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_4176",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-30",
+      "ugd": {
+        "bin": "950440001455",
+        "name": "ГУ Аппарат акима село Суыксу Бухар-Жырауского района",
+        "code": "301326"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:13:30.638389",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e4a9ac22-2bd3-4aff-9870-7cca91536ee1",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8098.24,
+      "kbk": {
+        "name": "Обязательные пенсионные взносы работодателя",
+        "code": 905101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "089",
+      "purpose": "Основное_3557",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-05"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:13:42.833557",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f602a20f-36da-491e-8dc3-6d76a9d07b04",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9568.29,
+      "kbk": {
+        "name": "ТП, распред. Кыргызской Республикой",
+        "code": 106117,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9444",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-26",
+      "ugd": {
+        "bin": "000540004169",
+        "name": "ГУ \"Аппарат акима сельского округа Жамбул Келесского района\"",
+        "code": "582705"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:13:55.371235",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_613fcb5f-8f79-4fae-b164-dab788aaba85",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1747.78,
+      "kbk": {
+        "name": "Бензин (за искл. авиац.) и диз. топ., произ. на терр. РК",
+        "code": 105284,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_8087",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-08",
+      "ugd": {
+        "bin": "130240026402",
+        "name": "ГУ \"Аппарат акима Алмалинского сельского округа Сарканского района\"",
+        "code": "700802"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:14:07.836307",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_17a61e95-c6d9-4896-b03d-60df2097b001",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 154.53,
+      "kbk": {
+        "name": "Плата за поль-е водными рес-ми поверхностных ист-в",
+        "code": 105303,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_3881",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "970240002412",
+        "name": "ГУ \"Аппарат акима сельского округа Әйет Тарановского района\"",
+        "code": "391302"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:14:22.268132",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_bc007857-aaf6-40ba-9d87-e3bd59d543cc",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8414.75,
+      "kbk": {
+        "name": "Налог на добычу пол-х иск-х, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105306,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_8867",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "980840002700",
+        "name": "ГУ \"Аппарат акима Бобровского сельского округа Глубоковского района Восточно-Казахстанской области\"",
+        "code": "180305"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:14:34.110388",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_10b0c1ca-f1ea-4284-a3a8-0fce5d8d96dc",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1232.42,
+      "kbk": {
+        "name": "Плата за пользование животным миром",
+        "code": 105311,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_7305",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "950340000979",
+        "name": "ГУ \"Аппарат акима Киргизского сельского округа Каркаралинского района\"",
+        "code": "300522"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:14:46.457902",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_94dc887f-0475-4d16-8a64-1bd829cf79cf",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8918.92,
+      "kbk": {
+        "name": "Вывозные ТП на тов., выработанные из нефти",
+        "code": 106111,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_9447",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-18",
+      "ugd": {
+        "bin": "950340001144",
+        "name": "ГУ Аппарат акима Центральный сельский округ Бухар-Жырауского района",
+        "code": "301329"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:14:58.830563",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a452f82c-0ebb-426c-8abf-c8863aa745bb",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4544.38,
+      "kbk": {
+        "name": "Таб. изд., ввоз. на терр. РК с терр. гос-в-членов ТС",
+        "code": 105276,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3836",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-19",
+      "ugd": {
+        "bin": "110340000325",
+        "name": "ГУ \"Аппарат акима Гулдалинского сельского округа Талгарского района\"",
+        "code": "090907"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:15:11.462454",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f5a0c303-a431-4824-ba8f-4a6fba9ae0ac",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9633.24,
+      "kbk": {
+        "name": "СО в свою пользу",
+        "code": 902101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "017",
+      "purpose": "Основное_2662",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-17"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:15:23.181365",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_6cc50535-d01f-416a-9d9b-6e7dc36b57e9",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4430.21,
+      "kbk": {
+        "name": "Прочие поступления от недропользователей",
+        "code": 105330,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1671",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "030140003429",
+        "name": "КГУ \"Аппарат акима Ломоносовского сельского округа района имени Габита Мусрепова Северо-Казахстанской области\"",
+        "code": "482011"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:15:33.443612",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f342a7bb-a5d8-4a7a-8371-e4d66f31a526",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 192.54,
+      "kbk": {
+        "name": "Налог на транспорт для ИП",
+        "code": 104402,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6958",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": null,
+      "year": 2024,
+      "ugd": {
+        "bin": "990740002530",
+        "name": "ГУ \"Аппарат акима Бестерекского сельского округа Урджарского района Восточно-Казахстанской области\"",
+        "code": "710804"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:15:44.057088",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_0bfe1453-8bba-4c5a-99e3-fed959b396a0",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2641.29,
+      "kbk": {
+        "name": "Налог на транспорт для ИП",
+        "code": 104402,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5085",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": null,
+      "year": 2024,
+      "ugd": {
+        "bin": "130340008319",
+        "name": "ГУ \"Аппарат акима Кетпенского сельского округа Уйгурского района\"",
+        "code": "091005"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:15:56.338024",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_4e2c058a-1935-4435-a052-19e25201b447",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8266.81,
+      "kbk": {
+        "name": "ТП, распред. Кыргызской Республикой",
+        "code": 106117,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_8846",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-18",
+      "ugd": {
+        "bin": "200140024428",
+        "name": "ГУ Аппарат акима Новопокровский сельский округ Узункольского района",
+        "code": "390908"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:17:57.121562",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1dd26fb5-2405-4489-b861-0ed5d85a97cf",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8663.98,
+      "kbk": {
+        "name": "ТП, распределенные РБ",
+        "code": 106107,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_5926",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-24",
+      "ugd": {
+        "bin": "950540000440",
+        "name": "РГУ \"УГД по Осакаровскому району ДГД по Карагандинской области КГД МФ РК\"",
+        "code": "300901"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:18:07.933650",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f08c7e21-81b1-4e23-9e02-e05a745dcfc7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4508.87,
+      "kbk": {
+        "name": "Плата за пользование земельными участками",
+        "code": 105315,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_2449",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "991040000765",
+        "name": "КГУ \"Аппарат акима Жамбылского сельского округа Жамбылского района Жамбылской области\"",
+        "code": "210210"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:18:20.878695",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_cbbbc380-338f-45a1-abc0-1f707947f53a",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4908.53,
+      "kbk": {
+        "name": "ОПВ в свою пользу",
+        "code": 901101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "010",
+      "purpose": "Основное_1096",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-11"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:19:27.423548",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_316afe4a-bce0-4d96-bb88-f6934013d973",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6818.58,
+      "kbk": {
+        "name": "Платеж по возмещению исторических затрат",
+        "code": 105319,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9564",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "000140002366",
+        "name": "ГУ Аппарат акима Село Коктау города Аркалыка",
+        "code": "392513"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:19:34.886348",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_2580441c-aeb8-4482-b51d-bd600ec9e895",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9639.18,
+      "kbk": {
+        "name": "Вывозные ТП на тов., выработанные из нефти",
+        "code": 106111,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_2283",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-21",
+      "ugd": {
+        "bin": "000540001471",
+        "name": "ГУ Аппарат акима Село Красногорское города Лисаковск",
+        "code": "391802"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:19:45.277002",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_48c8cf0a-383c-463c-9233-5ce691ce079e",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2065.06,
+      "kbk": {
+        "name": "Совокупный таможенный платеж на ввозимые товары",
+        "code": 106105,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_9175",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-28",
+      "ugd": {
+        "bin": "970340001653",
+        "name": "ГУ \"Аппарат акима Рождественского сельского округа Павлодарского района\"",
+        "code": "451007"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:19:56.632431",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1332e328-d4d1-40c3-a1d4-563f131233f5",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9157.83,
+      "kbk": {
+        "name": "Вз. суммы обес. упл. ТП, нал., пост-е из Республики Армения",
+        "code": 106116,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_9572",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-25",
+      "ugd": {
+        "bin": "980840001306",
+        "name": "РГУ «УГД по Аулиекольскому району ДГД по Костанайской области КГД МФ РК\"",
+        "code": "391201"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:20:06.715463",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_aa716fd0-5b91-4173-aa06-bb4ca27e38c8",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9920.21,
+      "kbk": {
+        "name": "Рентный налог на экспорт от организаций нефтяного сектора",
+        "code": 105327,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_7225",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "001240003648",
+        "name": "ГУ«Аппарат акима Каскасуского сельского округа Толебийского района»",
+        "code": "580905"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:20:17.118274",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1c2fd06f-f1a1-4f14-9296-b1388faf928f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7894.57,
+      "kbk": {
+        "name": "Рентный налог на экспорт, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105307,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1114",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "980340000914",
+        "name": "ГУ Аппарат акима Село Голубовка Иртышского района",
+        "code": "450607"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:20:26.423634",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_eae9cc46-e69e-4fbb-97aa-be0e49757a32",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2507.55,
+      "kbk": {
+        "name": "Бонусы, за исключением поступлений от организаций нефтяного сектора",
+        "code": 105305,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6304",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "020740002173",
+        "name": "КГУ \"Аппарат акима Кызылкайнарского сельского округа Жамбылского района Жамбылской области\"",
+        "code": "210214"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:20:37.227001",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_c3d7708e-5468-4713-a425-c39119d9d341",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6235.77,
+      "kbk": {
+        "name": "НДС на электронную торговлю с иностранных интернет компаний",
+        "code": 105116,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8896",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240007181",
+        "name": "ГУ Аппарат акима Жусандойский сельский округ  Каратобинского района",
+        "code": "270906"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:20:57.334677",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8e36bac7-4147-48d7-9d30-0740d623f6cf",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3300.96,
+      "kbk": {
+        "name": "Сырая нефть, газ.кон-т, произ. на терр. РК",
+        "code": 105229,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1043",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-17",
+      "ugd": {
+        "bin": "050240007141",
+        "name": "ГУ Аппарат акима Саралжинский сельский округ  Каратобинского района",
+        "code": "270902"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:21:16.943828",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d9b089dd-280d-4989-8fd5-30e798616ac7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6884.24,
+      "kbk": {
+        "name": "ТП, нал. на ввоз. ф/л товары для лич. пол. с прим. ед-х ставок ТП, налогов",
+        "code": 106104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3401",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-28",
+      "ugd": {
+        "bin": "990340000553",
+        "name": "РГУ \"УГД по Бородулихинскому району ДГД по области Абай  КГД МФ РК\"",
+        "code": "710501"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:21:39.934325",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f4121660-9950-4cb8-a8b7-baa3736a69d3",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4168.82,
+      "kbk": {
+        "name": "Плата за пользование животным миром",
+        "code": 105311,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8412",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "940440000623",
+        "name": "ГУ Аппарат акима Кызылжарский сельский округ Мартукского района",
+        "code": "061009"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:21:49.842150",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_9485b4be-615a-4fe2-a190-dc4d2983c0d4",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6107.78,
+      "kbk": {
+        "name": "Плата за поль-е водными рес-ми поверхностных ист-в",
+        "code": 105303,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1610",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "940640000819",
+        "name": "ГУ Аппарат акима Сельский округ Каратобе Жанакорганского района",
+        "code": "330906"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:21:58.812729",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_56f6b7a4-9f91-4a0f-9922-d765f400d294",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4092.21,
+      "kbk": {
+        "name": "Плата за использование особо охраняемых природных территорий местного значения",
+        "code": 105314,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4433",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "001240000128",
+        "name": "ГУ \"Аппарат акима Шиликского сельского округа\" акимата Отырарского района",
+        "code": "580509"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:22:08.454895",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_c03072a7-f1ac-4eb4-86e2-a45e28f36609",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6173.26,
+      "kbk": {
+        "name": "Пр. виды подакцизных прод., импор. на терр. РК с терр. гос-в, не явл. чл. ТС",
+        "code": 105282,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_6886",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-02",
+      "ugd": {
+        "bin": "000540003844",
+        "name": "ГУ \"Аппарат акима сельского округа Бозай Келесского района\" ",
+        "code": "582706"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:22:23.503884",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8c0c90ba-a82f-40f8-a9cf-24d136e36382",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9015.85,
+      "kbk": {
+        "name": "Вывозные ТП на тов., выработанные из нефти",
+        "code": 106111,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_7079",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-19",
+      "ugd": {
+        "bin": "040640004487",
+        "name": "ГУ Аппарат акима Село Перелески Денисовского района",
+        "code": "391113"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:22:32.940900",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_af4bd5cf-a2a2-4779-a1de-61f3f40cc72b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4198.17,
+      "kbk": {
+        "name": "Плата за поль-е водными рес-ми поверхностных ист-в",
+        "code": 105303,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_4789",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "980940001220",
+        "name": "РГУ \"УГД по городу Павлодар ДГД по Павлодарской области КГД МФ РК\"",
+        "code": "451501"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:22:42.700191",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_b36cd478-f20b-469c-9044-6d82daa5603b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3766.22,
+      "kbk": {
+        "name": "Вз-е суммы обес-я упл. ТП, налогов, пост-е от Кыргызской Республики",
+        "code": 106118,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9637",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-22",
+      "ugd": {
+        "bin": "961040000635",
+        "name": "РГУ «УГД по Жанакорганскому району ДГД по Кызылординской области КГД МФ РК»",
+        "code": "330901"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:22:53.113244",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a73eb133-3648-472c-90cf-3ee2245d124c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2850.35,
+      "kbk": {
+        "name": "Налог на имущество",
+        "code": 104101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9732",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "060140018928",
+        "name": "ГУ Аппарат акима Байшегирский сельский округ Каратальского района",
+        "code": "700404"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:23:05.075922",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_04d8b994-5220-4fda-bc2a-0640cf93cb4b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7556.15,
+      "kbk": {
+        "name": "Налог на добычу полезных ископаемых от организаций нефтяного сектора",
+        "code": 105326,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1864",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "980440002250",
+        "name": "ГУ Аппарат акима Акжолский сельский округ Актогайского района",
+        "code": "450303"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:23:16.336969",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d0aea116-8992-451e-a49d-2d39765bb3ff",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2470.06,
+      "kbk": {
+        "name": "Социальный налог (ежемесячный)",
+        "code": 103101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6918",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-19",
+      "ugd": {
+        "bin": "980840002493",
+        "name": "ГУ Аппарат акима Петропавловский сельский округ Бородулихинского района",
+        "code": "710519"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:23:26.810823",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5bc63430-80cb-460b-843b-309fec8192c5",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7653.55,
+      "kbk": {
+        "name": "Бонусы, за исключением поступлений от организаций нефтяного сектора",
+        "code": 105305,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6122",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "940840000251",
+        "name": "ГУ \"Аппарат акима Айнабулакского сельского округа\"",
+        "code": "180402"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:23:37.131861",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e1dcf030-1fef-4846-9e66-3e370ff83e4e",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 464.55,
+      "kbk": {
+        "name": "НДС на товары, импортированные из ЕАЭС",
+        "code": 105115,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1229",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "141140001205",
+        "name": "РГУ \"ДГД по Туркестанской области КГД МФ РК\"",
+        "code": "580101"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:23:47.828416",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f2669cc1-0932-4b07-8236-378099d3c506",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4783.32,
+      "kbk": {
+        "name": "Вывозные ТП на тов., выработанные из нефти",
+        "code": 106111,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6150",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-28",
+      "ugd": {
+        "bin": "040840003446",
+        "name": "ГУ \"Аппарат акима Убаганского сельского округа Алтынсаринского района\"",
+        "code": "390208"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:23:57.771616",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_aac1d47e-0001-4b28-aa67-905813b6f866",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8193.61,
+      "kbk": {
+        "name": "Плата за пользование земельными участками",
+        "code": 105315,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4319",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "970940002445",
+        "name": "ГУ \"Аппарат Акима Желтауского сельского округа\"",
+        "code": "060906"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:24:07.402585",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_c3c2e70b-75f7-404d-a398-499fab0c1fb9",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9007.05,
+      "kbk": {
+        "name": "Таб. изд., ввоз. на терр. РК с терр. гос-в-членов ТС",
+        "code": 105276,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_6204",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-20",
+      "ugd": {
+        "bin": "050240008080",
+        "name": "ГУ Аппарат акима Успеновский сельский округ  Бурлинского района",
+        "code": "270309"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:24:20.854451",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5f2eed1c-c336-4163-875e-8fedd2699b25",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4141.86,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат., алк. прод., импорт. на терр. РК с терр. гос., не явл. чл.ТС",
+        "code": 105280,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9900",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-23",
+      "ugd": {
+        "bin": "130240031280",
+        "name": "ГУ \"Аппарат акима КазЦИКовского сельского округа Илийского района\"",
+        "code": "090406"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:24:32.528177",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_2eb71a11-41bc-4140-9385-41ff3988662f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1959.58,
+      "kbk": {
+        "name": "Прочие поступления от недропользователей",
+        "code": 105330,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5852",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "970240004238",
+        "name": "ГУ Аппарат акима Караменде биский сельский округ Актогайского района",
+        "code": "302112"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:24:44.014095",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_fb06e9c6-bf22-4385-a682-ccf9ec531ac3",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5002.92,
+      "kbk": {
+        "name": "Вз. суммы обес. упл. ТП, нал., пост. из Республики Беларусь",
+        "code": 106115,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_7762",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-09",
+      "ugd": {
+        "bin": "970140003632",
+        "name": "ГУ Аппарат акима Акшокинский сельский округ Шетского района",
+        "code": "302411"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:24:54.951060",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_06ae0d8c-2ca8-4b1e-a640-7b7969e6b068",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9919.14,
+      "kbk": {
+        "name": "ТС, упл. в соот. с тамож. зак-м РК",
+        "code": 106201,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1055",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-06",
+      "ugd": {
+        "bin": "980740002132",
+        "name": "ГУ \"Аппарат акима Тарбагатайского сельского округа Аягозского района\"",
+        "code": "710308"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:25:04.616279",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d53153d7-fd90-4064-bd41-13309e550d0f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8891.43,
+      "kbk": {
+        "name": "Социальный налог (полугодовой)",
+        "code": 103101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5239",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-25",
+      "ugd": {
+        "bin": "941240001687",
+        "name": "КГУ \"Аппарат акима сельского округа Октябрь\"",
+        "code": "330210"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:25:15.201557",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_6e896441-e007-49f4-8834-970bc5e68c04",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3171.98,
+      "kbk": {
+        "name": "НДС на электронную торговлю с иностранных интернет компаний",
+        "code": 105116,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9691",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "980840002542",
+        "name": "ГУ \"Аппарат акима Переменовского сельского округа Бородулихинского района Восточно-Казахстанской области\"",
+        "code": "710517"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:25:27.115957",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_36a1e72b-731d-4065-8887-1c02842a1e24",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8790.61,
+      "kbk": {
+        "name": "Плата за предостав. междг. и(или) междн. тел. св., а ткж сот. связи",
+        "code": 105301,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_3545",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240009831",
+        "name": "ГУ Аппарат акима Косжарский сельский округ Аральского района",
+        "code": "330219"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:25:37.992427",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1271c541-c0b7-4b50-b6f0-7481bbc3740f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1205.85,
+      "kbk": {
+        "name": "Налог на добычу полезных ископаемых от организаций нефтяного сектора",
+        "code": 105326,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_2936",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "001240004399",
+        "name": "ГУ \"Аппарат акима сельского округа Кызылкия\"",
+        "code": "580809"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:25:49.376920",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_63ba716e-235d-428b-afcb-409367ba5155",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3554.19,
+      "kbk": {
+        "name": "Пр. виды подакцизных прод., импор. на терр. РК с терр. гос-в, не явл. чл. ТС",
+        "code": 105282,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_7706",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-30",
+      "ugd": {
+        "bin": "130540005956",
+        "name": "ГУ \"Аппарат акима города Аксай Бурлинского района Западно-Казахстанской области\"",
+        "code": "270302"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:26:00.752830",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1c19bfe1-0b24-4036-9871-7b9a06063886",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5189.59,
+      "kbk": {
+        "name": "Вз. суммы обес. упл. ТП, налогов, поступ. из РФ",
+        "code": 106114,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8700",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-02",
+      "ugd": {
+        "bin": "970340001702",
+        "name": "ГУ Аппарат акима село Ольгинка Павлодарского района",
+        "code": "451004"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:26:11.692286",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_ebb243c7-e232-454e-a32e-a78445a46f1b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 437.3,
+      "kbk": {
+        "name": "Вз-е суммы обес-я упл. ТП, налогов, пост-е от Кыргызской Республики",
+        "code": 106118,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_4467",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-05",
+      "ugd": {
+        "bin": "931240000904",
+        "name": "КГУ \"Аппарат акима Каракыстакского сельского округа района Т.Рыскулова\"",
+        "code": "210513"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:26:22.167292",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d8ef2e74-bb16-49c1-b3b3-106ec29bd593",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1956.26,
+      "kbk": {
+        "name": "ТП на ввоз. тов. и(или) ввоз. ТП, обяз-ть по упл. кот. возникла до вст. в силу Согл. об уст. и прим. в ТС пор. зачис. и распр. ввоз. ТП (иных пошлин, нал.и сборов, им. эквив. д-е)",
+        "code": 106112,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_4825",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-01",
+      "ugd": {
+        "bin": "030640003556",
+        "name": "ГУ \"Аппарат акима села Аксай Амангельдинского района\"",
+        "code": "392012"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:26:32.397351",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_03ffe615-01c4-4758-9ead-87ddcecaef8c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1508.57,
+      "kbk": {
+        "name": "НДС за нерезидента",
+        "code": 105104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6645",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "980640001626",
+        "name": "ГУ \"Аппарат акима поселка Глубокое Глубоковского района Восточно-Казахстанской области\"",
+        "code": "180304"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:26:43.069641",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_3d540aee-13c5-4f18-b71d-68b35afea95c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7425.77,
+      "kbk": {
+        "name": "Суммы распред. ввоз.ТП, перечис. кот. приостановлено",
+        "code": 106108,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1737",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-04",
+      "ugd": {
+        "bin": "980840003213",
+        "name": "ГУ Аппарат акима Каскабулакский сельский округ Абайского района",
+        "code": "710209"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:26:53.341777",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_402efa8c-bd23-4f14-8f2d-609c7e39f960",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7182.6,
+      "kbk": {
+        "name": "Сырая нефть, газ.кон-т, произ. на терр. РК",
+        "code": 105229,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_7622",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-16",
+      "ugd": {
+        "bin": "980740001362",
+        "name": "РГУ \"УГД по Бурабайскому району ДГД по Акмолинской области КГД МФ РК\"",
+        "code": "032401"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:27:03.201425",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f0860bcd-a092-4dbc-8eed-dcd3aad8bc7f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8486.45,
+      "kbk": {
+        "name": "Бензин (за искл. авиац.) и диз. топл., ввоз. на терр. РК с терр. гос-в-членов ТС",
+        "code": 105279,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_8559",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-13",
+      "ugd": {
+        "bin": "950140001177",
+        "name": "КГУ \"Аппарат акима сельского округа Актобе\"",
+        "code": "330407"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:27:12.204698",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_4aa04bb0-d58c-4b81-85b9-a1822cc5e3b4",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2803.6,
+      "kbk": {
+        "name": "Плата за негативное воздействие на окружающую среду",
+        "code": 105316,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1012",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "941040000819",
+        "name": "КГУ \"Аппарат акима Бериккаринского сельского округа Таласского района\"",
+        "code": "211012"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:27:24.723541",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_ac0c3c87-c34f-45bf-a5bc-8e282a25e950",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3287.79,
+      "kbk": {
+        "name": "ТП на ввоз. тов. и(или) ввоз. ТП, обяз-ть по упл. кот. возникла до вст. в силу Согл. об уст. и прим. в ТС пор. зачис. и распр. ввоз. ТП (иных пошлин, нал.и сборов, им. эквив. д-е)",
+        "code": 106112,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_7711",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-24",
+      "ugd": {
+        "bin": "950440000942",
+        "name": "ГУ Аппарат акима Коксунский сельский округ Абайского района",
+        "code": "300209"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:27:35.854559",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_679dce7b-4521-4664-9602-81c45703be6a",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 754.45,
+      "kbk": {
+        "name": "НДС за нерезидента",
+        "code": 105104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5320",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "950240001130",
+        "name": "ГУ Аппарат акима Сафоновский сельский округ Курмангазинского района",
+        "code": "150308"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:27:46.522650",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_eb05d09d-7e99-46e4-a8bc-daeb2379f87e",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2927.93,
+      "kbk": {
+        "name": "Плата за использование особо охраняемых природных территорий республиканского значения",
+        "code": 105313,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6333",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "991140004022",
+        "name": "ГУ \"Аппарат акима сельского округа Достык Шардаринского района\"",
+        "code": "581604"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:27:59.017970",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f8fdec03-d915-49e6-9a6d-29edfa565e7a",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1520.58,
+      "kbk": {
+        "name": "НДС за нерезидента",
+        "code": 105104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_7240",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "000540003557",
+        "name": "ГУ Аппарат акима Улентинский сельский округ Ерейментауского района",
+        "code": "030709"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:28:09.797382",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_7ef04fc8-b4bd-4522-81ed-e3e2e8aeb299",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2344.33,
+      "kbk": {
+        "name": "Рентный налог на экспорт, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105307,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_7236",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "031140003729",
+        "name": "КГУ \"Аппарат акима Прибрежного сельского округа Кызылжарского района Северо-Казахстанской области\"",
+        "code": "480209"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:28:20.303850",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_7309d952-dd0b-4507-aabf-88ed7e23206f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1909.59,
+      "kbk": {
+        "name": "Прочие поступления от недропользователей",
+        "code": 105330,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_8211",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "990340006925",
+        "name": "ГУ Аппарат акима Кривощековский сельский округ района Шал акына",
+        "code": "481007"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:28:32.050112",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_92695fd5-9906-4eb3-820e-925875125238",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7186.45,
+      "kbk": {
+        "name": "Плата за пользование земельными участками",
+        "code": 105315,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_9764",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "000340000139",
+        "name": "КГУ \"Аппарат акима Покровского сельского округа акимата Есильского района Северо-Казахстанской области\"",
+        "code": "480614"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:28:42.196184",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_683ecc2a-25a7-46e1-baa3-4eebb0ec903a",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2661.49,
+      "kbk": {
+        "name": "Вз-е суммы обес-я упл. ТП, налогов, пост-е от Кыргызской Республики",
+        "code": 106118,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5458",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-11",
+      "ugd": {
+        "bin": "980840002919",
+        "name": "ГУ Аппарат акима Красноярский сельский округ Бородулихинского района",
+        "code": "710504"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:28:52.799774",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e8c8ba7a-a843-4d2c-9835-161ad3b76f34",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2331.17,
+      "kbk": {
+        "name": "Единый Земельный налог",
+        "code": 104501,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4572",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": null,
+      "year": 2024,
+      "ugd": {
+        "bin": "970140003800",
+        "name": "ГУ Аппарат акима Талдинский сельский округ Шетского района",
+        "code": "302410"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:29:04.371892",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_ddfd72f1-5752-4f20-900c-c6428599b71d",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1912.97,
+      "kbk": {
+        "name": "Земельный налог",
+        "code": 104302,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_2639",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": null,
+      "year": 2024,
+      "ugd": {
+        "bin": "970140003157",
+        "name": "Рудный каласы Горняцк кенті әкімінің аппараты ММ",
+        "code": "391902"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:29:16.086146",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d1ad24bd-c77b-4175-ba4b-0ebfb550527c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7912.08,
+      "kbk": {
+        "name": "Плата за предостав. междг. и(или) междн. тел. св., а ткж сот. связи",
+        "code": 105301,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1828",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "940640001222",
+        "name": "КГУ \"Аппарат акима сельского округа Гигант\"",
+        "code": "330805"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:29:26.640650",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e1f93ec3-ec00-4d78-98e1-9e9c1421968f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2529.56,
+      "kbk": {
+        "name": "Рентный налог на экспорт от организаций нефтяного сектора",
+        "code": 105327,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1199",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "970140003157",
+        "name": "Рудный каласы Горняцк кенті әкімінің аппараты ММ",
+        "code": "391902"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:29:38.311481",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d2bfeed0-6dfa-4b36-8ca6-7cec489168ae",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5638.79,
+      "kbk": {
+        "name": "ТП на ввоз. тов. и(или) ввоз. ТП, обяз-ть по упл. кот. возникла до вст. в силу Согл. об уст. и прим. в ТС пор. зачис. и распр. ввоз. ТП (иных пошлин, нал.и сборов, им. эквив. д-е)",
+        "code": 106112,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3076",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-20",
+      "ugd": {
+        "bin": "040840003109",
+        "name": "ГУ Аппарат акима Большечураковский сельский округ Алтынсаринского района",
+        "code": "390211"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:29:49.061018",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_6396aa03-d847-4876-be18-63f4ee79edcf",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6684.68,
+      "kbk": {
+        "name": "Доп. пл. недр-ля, осущ. деят. по ктр о разделе прод., и альтернатив. нал. на недр. от орг. нефт. сектора",
+        "code": 105329,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5884",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "980240001857",
+        "name": "ГУ Аппарат акима Агашорынский сельский округ Иртышского района",
+        "code": "450608"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:29:59.638916",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_706eb233-fcca-4411-8789-7c3196064105",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6693.93,
+      "kbk": {
+        "name": "Налог на транспорт для ИП",
+        "code": 104402,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_7129",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": null,
+      "year": 2024,
+      "ugd": {
+        "bin": "990640001281",
+        "name": "РГУ \"УГД по Мангистаускому району ДГД по Мангистауской области КГД МФ РК\"",
+        "code": "430401"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:30:09.741025",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5db72e18-d870-41da-b822-ce3683779836",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1285.04,
+      "kbk": {
+        "name": "Плата за пользование земельными участками",
+        "code": 105315,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_6233",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "561240000024",
+        "name": "ГУ Аппарат акима Целинный сельский округ Тимирязевского района",
+        "code": "481317"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:30:18.406879",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_4ed49dcc-e2a8-4154-94e5-5e5f33824821",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8180.48,
+      "kbk": {
+        "name": "Таможенные пошлины на вывозимые товары",
+        "code": 106102,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5463",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-03",
+      "ugd": {
+        "bin": "950240001011",
+        "name": "ГУ Аппарат акима Сельский округ Карагайлы Осакаровского района",
+        "code": "300910"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:30:30.043704",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5086da30-5cb1-4111-912e-b10d063de0f1",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8275.38,
+      "kbk": {
+        "name": "Ввоз. ТП (иные пошлины, нал. и сборы, им. эквив. дейст), упл. в соот. с Дог. о ЕЭС",
+        "code": 106101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5862",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-25",
+      "ugd": {
+        "bin": "050240006103",
+        "name": "ГУ \"Аппарат акима Садчиковского сельского округа Костанайского района\"",
+        "code": "390817"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:30:41.198258",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_97c66e84-9f89-4b04-b347-a91841d0cf0e",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 202.78,
+      "kbk": {
+        "name": "ТП, нал. на ввоз. ф/л товары для лич. пол. с прим. ед-х ставок ТП, налогов",
+        "code": 106104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1122",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-21",
+      "ugd": {
+        "bin": "130340011140",
+        "name": "ГУ \"Аппарат акима Акжарского сельского округа Алакольского района\"",
+        "code": "700320"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:30:51.087149",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_2ac82bf8-271b-43e2-8bf1-34af56708606",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4886.22,
+      "kbk": {
+        "name": "Доля РК по разделу прод. по заключ-м ктр от организаций нефт-го сектора",
+        "code": 105328,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4414",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240003199",
+        "name": "ГУ Аппарат акима Село Жалгыскан Карасуского района",
+        "code": "390605"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:31:18.800889",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_de18174d-592e-4229-a16b-f3cf103fd4de",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8730.35,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат., алк. прод., импорт. на терр. РК с терр. гос., не явл. чл.ТС",
+        "code": 105280,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_2637",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-09",
+      "ugd": {
+        "bin": "001240004369",
+        "name": "ГУ \"Аппарат акима сельского округа Каракур Созакского района\"",
+        "code": "581307"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:31:38.899574",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_fc5b6a19-23b9-4056-8af8-6eab47aafbc4",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6090.84,
+      "kbk": {
+        "name": "ИПН с доходов, не облагаемых у источника выплаты (полугодовой)",
+        "code": 101202,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9641",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-04",
+      "ugd": {
+        "bin": "050140009431",
+        "name": "ГУ Аппарат акима село Маяк Сарыкольского района",
+        "code": "391410"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:31:48.305125",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_83a84126-7b47-418f-a869-bf35e020dee4",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 876.49,
+      "kbk": {
+        "name": "Вз-е суммы обес-я упл. ТП, налогов, пост-е от Кыргызской Республики",
+        "code": 106118,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6288",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-25",
+      "ugd": {
+        "bin": "130340003665",
+        "name": "ГУ \"Аппарат акима Карабулакского сельского округа\" Кегенского района",
+        "code": "092405"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:32:06.897357",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_c1ab5278-09c1-438b-ac2e-805088479953",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3857.57,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат, алк. прод, произ. на терр. РК",
+        "code": 105274,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8994",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-02",
+      "ugd": {
+        "bin": "020840002860",
+        "name": "КГУ \"Аппарат акима Бирликустемского сельского округа Шуского района Жамбылской области\"",
+        "code": "211106"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:32:19.591889",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_731ddb8d-18c6-431c-8ebf-dd23998ae273",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4017.85,
+      "kbk": {
+        "name": "Рентный налог на экспорт, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105307,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_8018",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "980140002656",
+        "name": "ГУ Аппарат акима Селетинский сельский округ Иртышского района",
+        "code": "450611"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:32:31.287708",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_4f263316-f2fb-4029-af72-5b8ac62e2ab7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3074.19,
+      "kbk": {
+        "name": "Плата за негативное воздействие на окружающую среду",
+        "code": 105316,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3017",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "940540001080",
+        "name": "ГУ Аппарат акима Богетсайский сельский округ Хромтауского района",
+        "code": "061604"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:32:43.459955",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_935209b7-a260-4f4f-8777-b0d2dbabc2d7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5245.87,
+      "kbk": {
+        "name": "Рентный налог на экспорт, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105307,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9667",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "940140001016",
+        "name": "КГУ \"Аппарат акима сельского округа Тартогай\"",
+        "code": "330803"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:32:53.918085",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_63c7c7a5-fc79-4140-8cd5-2c304cd44e4b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1372.81,
+      "kbk": {
+        "name": "Плата за использование особо охраняемых природных территорий республиканского значения",
+        "code": 105313,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5734",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "980640000915",
+        "name": "РГУ \"УГД по Шалкарскому району ДГД по Актюбинской области КГД МФ РК\"",
+        "code": "061701"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:33:02.978751",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e985dbf4-67b3-4ed7-95ce-0c641bdd961a",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9308.77,
+      "kbk": {
+        "name": "НДС на товары, импортируемые в РК. Исключая РФ и РБ",
+        "code": 105102,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5238",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "980840001356",
+        "name": "ГУ Аппарат акима Никольский сельский округ района Алтай",
+        "code": "181302"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:33:14.983259",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_276bfce1-4c00-4dbb-94a0-39a0df920053",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1713.45,
+      "kbk": {
+        "name": "ТП, распред. Кыргызской Республикой",
+        "code": 106117,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9862",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-01",
+      "ugd": {
+        "bin": "941240001449",
+        "name": "ГУ Аппарат акима Алгинский сельский округ Казалинского района",
+        "code": "330303"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:33:25.806033",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_6328d0d5-651d-43cd-b480-d23c26cbe5e5",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9782.51,
+      "kbk": {
+        "name": "Налог на добычу полезных ископаемых от организаций нефтяного сектора",
+        "code": 105326,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5115",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "001240004666",
+        "name": "ГУ \"Аппарат акима сельского округа Сызган Созакского района\"",
+        "code": "581306"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:33:38.493948",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_2e416dc9-9c6b-421e-8686-f60c03ff5b99",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9702.9,
+      "kbk": {
+        "name": "ТП, распределенные РФ",
+        "code": 106106,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_5063",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-05",
+      "ugd": {
+        "bin": "950140000892",
+        "name": "ГУ Аппарат акима Байтуганский сельский округ Нуринского раиона",
+        "code": "300807"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:33:47.869931",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_3aa4a186-f59d-4154-a3dd-8d81022e4367",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5797.63,
+      "kbk": {
+        "name": "Плата за предостав. междг. и(или) междн. тел. св., а ткж сот. связи",
+        "code": 105301,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1342",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "050140004262",
+        "name": "УГД по Камыстинскому району",
+        "code": "390509"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:33:59.465863",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8b546029-353f-4074-8cb6-1850531c54e7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9372.96,
+      "kbk": {
+        "name": "Вз-е суммы обес-я упл. ТП, налогов, пост-е от Кыргызской Республики",
+        "code": 106118,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_3426",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-26",
+      "ugd": {
+        "bin": "940140001879",
+        "name": "ГУ Аппарат акима Ульгулинский сельский округ Жамбылского района",
+        "code": "090308"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:34:12.484968",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_91e599dd-28de-4520-bc85-21d123c3a905",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 555.46,
+      "kbk": {
+        "name": "Вывозные ТП на тов., выработанные из нефти",
+        "code": 106111,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_5711",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-22",
+      "ugd": {
+        "bin": "241040000010",
+        "name": "ГУ Аппарат акима Григорьевский сельский округ Аккайынского района",
+        "code": "481107"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:34:23.000902",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_c2f7d80d-f28d-42fc-9d22-fcefeca795d8",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8945.22,
+      "kbk": {
+        "name": "Бензин (за искл.авиац.) и диз. топ-во, имп. на терр. РК с терр. гос., не явл. чл. ТС",
+        "code": 105283,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_5776",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-13",
+      "ugd": {
+        "bin": "970240002886",
+        "name": "ГУ Аппарат акима Шабанбайбиский сельский округ Актогайского района",
+        "code": "302105"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:34:33.941569",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_169aac26-2e26-477b-8c17-68873d6a2b6c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7974.2,
+      "kbk": {
+        "name": "Налог на сверхприбыль от организаций нефтяного сектора",
+        "code": 105322,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9015",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "000840002966",
+        "name": "ГУ \"Аппарат акима сельского округа Жамбыл\"",
+        "code": "581021"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:34:48.107319",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_0fcaed77-b78b-4129-922c-4504c6342187",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3156.17,
+      "kbk": {
+        "name": "СО в свою пользу",
+        "code": 902101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "012",
+      "purpose": "Основное_9912",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-12"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:34:58.424033",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1657c92e-7df0-4f31-8423-90802ee98be4",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 277.96,
+      "kbk": {
+        "name": "ВОСМС в свою пользу",
+        "code": 904101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "122",
+      "purpose": "Основное_1150",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-27"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:35:08.061711",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_92a8cfe0-9b82-4d18-9c25-33cbc0e84343",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1841.31,
+      "kbk": {
+        "name": "Платеж по возмещению исторических затрат",
+        "code": 105319,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1765",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "130240033534",
+        "name": "ГУ \"Аппарат акима Чулокайского сельского округа\" Панфиловского района",
+        "code": "700709"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:35:19.623079",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_c36da8d4-03a3-47c0-8e77-ce7724d91e3d",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7499.42,
+      "kbk": {
+        "name": "Плата за негативное воздействие на окружающую среду",
+        "code": 105316,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_3214",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "940140000791",
+        "name": "КГУ \"Аппарат акима сельского округа Акжарма\"",
+        "code": "330602"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:35:28.279080",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_761f8985-0d73-48da-b87e-4668b601e9f5",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8499.15,
+      "kbk": {
+        "name": "Налог на добычу пол-х иск-х, за искл-м поступ. от орг-ций нефт. сектора",
+        "code": 105306,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_7457",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "931240001000",
+        "name": "КГУ \"Аппарат акима сельского округа Кызылжарма города Кызылорды\" акимата города Кызылорда\"",
+        "code": "331008"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:35:37.200165",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_48acd3c3-6bbd-4674-947b-3e251fec89a1",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 810.78,
+      "kbk": {
+        "name": "Плата за пользование животным миром",
+        "code": 105311,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_8803",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "980840003392",
+        "name": "ГУ \"Аппарат акима поселка Новая Бухтарма Зыряновского района, Восточно-Казахстанской области\"",
+        "code": "181305"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:35:49.095963",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_9e1fcf8e-0dda-4edb-8cf7-aa1b7f51791e",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2057.29,
+      "kbk": {
+        "name": "Пр. виды подакцизных прод., импор. на терр. РК с терр. гос-в, не явл. чл. ТС",
+        "code": 105282,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1210",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-27",
+      "ugd": {
+        "bin": "010140002982",
+        "name": "КГУ \"Аппарат Акима сельского округа \"Андас батыр\" Меркенского района\"",
+        "code": "210610"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:35:59.992260",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_630ea7c4-a4da-4271-ba3f-e2104fa9230b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8752.51,
+      "kbk": {
+        "name": "Плата за использование радиочастотного спектра",
+        "code": 105309,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9077",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "970540001772",
+        "name": "ГУ \"Аппарат акима поселка Шахан\"",
+        "code": "301404"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:36:10.573895",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_993afb3e-a41f-45c4-8093-91c904d82a94",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1209.13,
+      "kbk": {
+        "name": "Сырая нефть, газ.кон-т, произ. на терр. РК",
+        "code": 105229,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5472",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-30",
+      "ugd": {
+        "bin": "021140001909",
+        "name": "РГУ \"УГД по Сузакскому району ДГД по Туркестанской области КГД МФ РК\"",
+        "code": "581301"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:36:22.475244",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_ee986ee8-74a7-4037-b0cb-8ccbb7c12bbf",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4333.76,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат., алк. прод., импорт. на терр. РК с терр. гос., не явл. чл.ТС",
+        "code": 105280,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4920",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-04",
+      "ugd": {
+        "bin": "931240000835",
+        "name": "ГУ Аппарат акима Иртышский сельский округ Осакаровского района",
+        "code": "300907"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:36:36.579711",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_63588447-d244-4385-88c6-24d3cbfa668e",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3603.45,
+      "kbk": {
+        "name": "Бензин (за искл.авиац.) и диз. топ-во, имп. на терр. РК с терр. гос., не явл. чл. ТС",
+        "code": 105283,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5659",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-25",
+      "ugd": {
+        "bin": "130240026303",
+        "name": "ГУ Аппарат акима Шатырбайский сельский округ Сарканского района",
+        "code": "700814"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:36:49.595722",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f0d773d7-c2ed-48f1-a21c-01d60c0bd127",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2556.68,
+      "kbk": {
+        "name": "ИПН с доходов, не облагаемых у источника выплаты (полугодовой)",
+        "code": 101202,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_2475",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-14",
+      "ugd": {
+        "bin": "940140000946",
+        "name": "КГУ \"Аппарат акима поселка Айтеке би\"",
+        "code": "330302"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:37:00.367952",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_b9b5f22e-4679-4de2-9d52-02ca38dfde7c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3692.79,
+      "kbk": {
+        "name": "Бонусы от организаций нефтяного сектора",
+        "code": 105325,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6014",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "940540000290",
+        "name": "ГУ Аппарат акима Жиеналинский сельский округ города Семей",
+        "code": "711107"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:37:10.434996",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_68f13f4d-2b01-42f3-b1c7-10c5f66e0439",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2100.92,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат., алк. прод., импорт. на терр. РК с терр. гос., не явл. чл.ТС",
+        "code": 105280,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1931",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-04",
+      "ugd": {
+        "bin": "940440000762",
+        "name": "КГУ \"Аппарат акима сельского округа Келинтобе\"",
+        "code": "330908"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:37:21.321076",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_24149eb1-605e-43b1-83f0-5fd6e8304c6c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1351.6,
+      "kbk": {
+        "name": "Доля РК по разделу прод. по закл. ктр., за иск. поступ. от орг. нефт. сектора",
+        "code": 105308,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9932",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "991140004022",
+        "name": "ГУ \"Аппарат акима сельского округа Достык Шардаринского района\"",
+        "code": "581604"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:37:30.385772",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_efb271b9-f4a4-438b-9ded-9ab2b624f6e2",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7892.79,
+      "kbk": {
+        "name": "Налог на сверхприбыль за искл. пост. от орг-й нефт. Сектора",
+        "code": 105302,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_6135",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "000140002316",
+        "name": "ГУ Аппарат акима Село Ангарский города Аркалыка",
+        "code": "392506"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:37:39.663555",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_b3f400a5-0584-4811-b86e-a9c8e053b06c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2404.96,
+      "kbk": {
+        "name": "Платеж по возмещению исторических затрат",
+        "code": 105319,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1832",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "030240003373",
+        "name": "Мағжан Жұмабаев ауданының Мағжан ауылдық округі әкімінің аппараты ММ",
+        "code": "480307"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:37:49.599046",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_86b57ff9-9ece-41c3-893d-efdfc0bf5696",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5919.19,
+      "kbk": {
+        "name": "Совокупный таможенный платеж на ввозимые товары",
+        "code": 106105,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_2331",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-15",
+      "ugd": {
+        "bin": "040840003614",
+        "name": "ГУ \"Аппарат акима села Аксу\" района Биржан сал",
+        "code": "032504"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:38:00.939276",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_0ea1118f-0d53-4a04-9631-496bb9de0987",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8290.06,
+      "kbk": {
+        "name": "Бензин (за искл.авиац.) и диз. топ-во, имп. на терр. РК с терр. гос., не явл. чл. ТС",
+        "code": 105283,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_3050",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-30",
+      "ugd": {
+        "bin": "030640003536",
+        "name": "ГУ Аппарат акима Наумовский сельский округ Аккольского района",
+        "code": "030208"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:38:12.191066",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_2bd0726c-f162-4f81-9d87-209e838783f6",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3239.1,
+      "kbk": {
+        "name": "Вз. суммы обес. упл. ТП, налогов, поступ. из РФ",
+        "code": 106114,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_9954",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-09",
+      "ugd": {
+        "bin": "130340003060",
+        "name": "ГУ \"Аппарат акима Узак батырского сельского округа\" Райымбекского района",
+        "code": "090817"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:38:21.229600",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_809e8b4e-b8c5-498f-b80e-d2cbaf0bf674",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6788.89,
+      "kbk": {
+        "name": "НДС на товары, импортируемые в РК. Исключая РФ и РБ",
+        "code": 105102,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_2548",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240002903",
+        "name": "Казталов ауданының Талдықұдық ауылдық округі әкімінің аппараты ММ",
+        "code": "270811"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:38:31.127137",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5e97a5a9-c0c3-46c9-ba59-b4b131fd33b7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3407.99,
+      "kbk": {
+        "name": "Рентный налог на экспорт от организаций нефтяного сектора",
+        "code": 105327,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_7501",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "000540003745",
+        "name": "ГУ \"Аппарат акима сельского округа Бирлесу Келесского района\" ",
+        "code": "582702"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:38:42.336100",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a74a72f7-b755-45f9-b3cd-21f9865d1073",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1852.17,
+      "kbk": {
+        "name": "Плата за пользование животным миром",
+        "code": 105311,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_7214",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "990340000553",
+        "name": "РГУ \"УГД по Бородулихинскому району ДГД по области Абай  КГД МФ РК\"",
+        "code": "710501"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:38:51.681030",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f85fda22-d2c4-418e-a88e-77a0139dc332",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4572.61,
+      "kbk": {
+        "name": "Налог на имущество",
+        "code": 104101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_2145",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "950640001442",
+        "name": "ГУ Аппарат акима Самаркандский сельский округ Бухар-Жырауского района",
+        "code": "301309"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:39:02.230504",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_ffd8df90-3b9c-447b-a1a7-1c98c2190aec",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9948.41,
+      "kbk": {
+        "name": "Таб-е изд., импорт. на терр. РК с терр. гос., не явл-ся чл. ТС",
+        "code": 105281,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1634",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-29",
+      "ugd": {
+        "bin": "050140001604",
+        "name": "ГУ Аппарат акима Майкумгенский сельский округ Жылыойского района",
+        "code": "150906"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:39:10.593356",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1f00f030-545d-415a-8f9f-fd6b9d95b133",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7994.1,
+      "kbk": {
+        "name": "ТП на ввоз. тов. и(или) ввоз. ТП, обяз-ть по упл. кот. возникла до вст. в силу Согл. об уст. и прим. в ТС пор. зачис. и распр. ввоз. ТП (иных пошлин, нал.и сборов, им. эквив. д-е)",
+        "code": 106112,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_6657",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-26",
+      "ugd": {
+        "bin": "970440000867",
+        "name": "ГУ \"Аппарат акима Железинского сельского округа Железинского района\"",
+        "code": "450507"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:39:20.187951",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_c650da7d-8f50-4d14-a586-faa3376516e3",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3805.11,
+      "kbk": {
+        "name": "Платеж по возмещению исторических затрат",
+        "code": 105319,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1393",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "760740000021",
+        "name": "ГУ Аппарат акима Дмитриевский сельский округ Тимирязевского района",
+        "code": "481307"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:39:31.273696",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_3f583ecd-b95d-491f-b458-2b975d69421c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2153.96,
+      "kbk": {
+        "name": "Таб. изд., ввоз. на терр. РК с терр. гос-в-членов ТС",
+        "code": 105276,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1510",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-15",
+      "ugd": {
+        "bin": "000140002386",
+        "name": "ГУ \"Аппарат акима села Родина города Аркалыка\"",
+        "code": "392503"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:39:40.095898",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8d491b49-b4d5-48b4-a28a-866c2c22b83a",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1821.82,
+      "kbk": {
+        "name": "Суммы % за проср. за неисп, непол. и(или) несвоев. исп. обяз.по перечис. сумм от распред. ввоз. ТП",
+        "code": 106109,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_8670",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-11",
+      "ugd": {
+        "bin": "000440004254",
+        "name": "ГУ \"Аппарат акима сельского округа Коксу Шардаринского района\"",
+        "code": "581609"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:39:48.793475",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_d574991d-9443-4f77-8982-e0b4ed243314",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2456.15,
+      "kbk": {
+        "name": "Плата за пользование животным миром",
+        "code": 105311,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_4453",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "001240004438",
+        "name": "ГУ \"Аппарат акима сельского округа Жанабазар\"",
+        "code": "580806"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:39:59.696153",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_c4a7952e-7b69-4854-872a-d378ec418d44",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2132.68,
+      "kbk": {
+        "name": "ТП на ввоз. тов. и(или) ввоз. ТП, обяз-ть по упл. кот. возникла до вст. в силу Согл. об уст. и прим. в ТС пор. зачис. и распр. ввоз. ТП (иных пошлин, нал.и сборов, им. эквив. д-е)",
+        "code": 106112,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_8214",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-15",
+      "ugd": {
+        "bin": "970440000629",
+        "name": "ГУ Аппарат акима Аксанский сельский округ Баянаульского района",
+        "code": "450403"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:40:10.263843",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_0303610e-5ef2-4bc6-86e7-b39e18e0b284",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2794.01,
+      "kbk": {
+        "name": "ТП, нал. на ввоз. ф/л товары для лич. пол. с прим. ед-х ставок ТП, налогов",
+        "code": 106104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5922",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-19",
+      "ugd": {
+        "bin": "001240004755",
+        "name": "ГУ \"Аппарат акима поселка Таукент Созакского района\"",
+        "code": "581312"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:40:21.559426",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_4613bc8d-317b-4017-82fe-e0a122316370",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1056.89,
+      "kbk": {
+        "name": "Социальный налог (полугодовой)",
+        "code": 103101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3416",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-07",
+      "ugd": {
+        "bin": "130340018752",
+        "name": "ГУ \"Аппарат акима Алгабасского сельского округа Коксуского района\"",
+        "code": "700603"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:40:30.753620",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8d0506b2-0912-44c6-af73-6a0112661267",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6995.36,
+      "kbk": {
+        "name": "Аван. плат, вн. в соот. с там. закон. ЕЭС и РК, в сч упл. пред. ТП, нал, спец., антидемп., компенс. пошлин, а т.ж в кач. обес. исп. обяз. по уплате ТП, нал, спец, антидемп., компен. пошлин",
+        "code": 106119,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_3041",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-17",
+      "ugd": {
+        "bin": "950140000911",
+        "name": "ГУ Аппарат акима Акмешитский сельский округ Нуринского района",
+        "code": "300815"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:40:40.682484",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_3ea3f515-5234-49e4-ba18-e7e6c68f0071",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2623.79,
+      "kbk": {
+        "name": "Обязательные пенсионные взносы работодателя",
+        "code": 905101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "089",
+      "purpose": "Основное_6467",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-11"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:41:01.464325",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_b674f395-0146-4aad-b500-07fda1c0cd28",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1631.77,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат, алк. прод, произ. на терр. РК",
+        "code": 105274,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_5721",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-20",
+      "ugd": {
+        "bin": "980940002447",
+        "name": "ГУ Аппарат акима Первомайский сельский округ Жамбылского района",
+        "code": "480512"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:41:19.822561",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_0f031cb7-9b4b-4546-9858-2b62718d084f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7718.53,
+      "kbk": {
+        "name": "ТП, распред. Кыргызской Республикой",
+        "code": 106117,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5066",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-05",
+      "ugd": {
+        "bin": "000540003884",
+        "name": "ГУ \"Аппарат акима сельского округа Жибек жолы Сарыагашского района\"",
+        "code": "581222"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:41:42.690761",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_6e941b5e-2d22-487f-a91a-fdb85a9b7ec8",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 176.05,
+      "kbk": {
+        "name": "ИПН с доходов, не облагаемых у источника выплаты (полугодовой)",
+        "code": 101202,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_2095",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-02",
+      "ugd": {
+        "bin": "970440000629",
+        "name": "ГУ Аппарат акима Аксанский сельский округ Баянаульского района",
+        "code": "450403"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:41:51.727538",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_6a7b0da2-7621-40fa-8d0f-54dc0d16dd46",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4229.47,
+      "kbk": {
+        "name": "Таб. изд, легк. авто (кр.авто. с руч. упр. или адаптером руч. упр., спец. предназ-х для инвал), произ-х на терр. РК",
+        "code": 105275,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_8960",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-08",
+      "ugd": {
+        "bin": "941240001796",
+        "name": "ГУ Аппарат акима Каратеренский сельский округ Аральского района",
+        "code": "330217"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:42:03.029035",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_96eb42bd-2b8a-4992-a629-5c156fc24c15",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 797.87,
+      "kbk": {
+        "name": "ВОСМС в свою пользу",
+        "code": 904101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "122",
+      "purpose": "Основное_9131",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-21"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:42:13.671727",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8c354888-e129-4b4d-9ed2-d6ee87f859c1",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1297.4,
+      "kbk": {
+        "name": "ТП, распред. Кыргызской Республикой",
+        "code": 106117,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5039",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-03",
+      "ugd": {
+        "bin": "050140004768",
+        "name": "ГУ \"Аппарат акима города Абай Карагандинской области\"",
+        "code": "300206"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:42:22.891632",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_77f8f94a-f85c-4d87-b453-a4b75c276353",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5238.02,
+      "kbk": {
+        "name": "Плата за использование особо охраняемых природных территорий республиканского значения",
+        "code": 105313,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3264",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240008308",
+        "name": "ГУ Аппарат акима Сельский округ Когалы Шиелийского района",
+        "code": "330820"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:42:32.571443",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_be40fd41-c519-4b35-a90a-50a89ce5cc60",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8616.86,
+      "kbk": {
+        "name": "Плата за поль-е водными рес-ми поверхностных ист-в",
+        "code": 105303,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8125",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "960440000469",
+        "name": "РГУ «УГД по Мендыкаринскому району ДГД по Костанайской области КГД МФ РК»",
+        "code": "390301"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:42:44.980880",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_33f4fa2b-a1e0-41ac-bf4b-1edfb6e5892b",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2427.31,
+      "kbk": {
+        "name": "Суммы распред. ввоз.ТП, перечис. кот. приостановлено",
+        "code": 106108,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1299",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-09",
+      "ugd": {
+        "bin": "950440001405",
+        "name": "ГУ Аппарат акима село Акоре Бухар-Жырауского района",
+        "code": "301315"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:42:57.429755",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_17ab010f-9fcc-4948-a641-fffc7d843678",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6573.8,
+      "kbk": {
+        "name": "Пр. виды подакцизной прод., ввоз. на терр. РК с терр. гос.-чл. ТС",
+        "code": 105278,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_7338",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-08",
+      "ugd": {
+        "bin": "540640000012",
+        "name": "КГУ \"Аппарат акима Тимирязевского сельского округа Тимирязевского района Северо-Казахстанской области\"",
+        "code": "481302"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:43:08.250491",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_c17acba8-8bb7-42cf-8ebc-0cc8b332d883",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7417.01,
+      "kbk": {
+        "name": "НДС на товары, импортируемые в РК. Исключая РФ и РБ",
+        "code": 105102,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_2688",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "950740000785",
+        "name": "ГУ Аппарат акима Кызылкаинский сельский округ Бухар-Жырауского района",
+        "code": "301319"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:43:17.840114",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e9b73912-ad6f-4f7b-bff2-c6661ab2d560",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8125.84,
+      "kbk": {
+        "name": "Плата за предостав. междг. и(или) междн. тел. св., а ткж сот. связи",
+        "code": 105301,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_1224",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "050240005135",
+        "name": "ГУ Аппарат акима Кызбельский сельский округ Джангельдинского района",
+        "code": "392314"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:43:28.559687",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_69a664b4-a44a-4ae1-869f-b8f9c404e3fc",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6855.78,
+      "kbk": {
+        "name": "Доля РК по разделу прод. по заключ-м ктр от организаций нефт-го сектора",
+        "code": 105328,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1509",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "021240003463",
+        "name": "КГУ \"Аппарат акима Кенесаринского сельского округа Бурабайского района\"",
+        "code": "032406"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:43:41.506143",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e95b7247-8456-4c82-a121-7e5b3fbfe20c",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1242.41,
+      "kbk": {
+        "name": "Вывозные ТП на тов., выработанные из нефти",
+        "code": 106111,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5486",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-17",
+      "ugd": {
+        "bin": "970440002219",
+        "name": "ГУ \"Аппарат акима Заринского сельского округа Павлодарского района\"",
+        "code": "451013"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:43:51.743369",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a8c19aab-4fc3-437f-8128-a00989b1c534",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8383.77,
+      "kbk": {
+        "name": "Аван. плат, вн. в соот. с там. закон. ЕЭС и РК, в сч упл. пред. ТП, нал, спец., антидемп., компенс. пошлин, а т.ж в кач. обес. исп. обяз. по уплате ТП, нал, спец, антидемп., компен. пошлин",
+        "code": 106119,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5874",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-01",
+      "ugd": {
+        "bin": "030240003373",
+        "name": "Мағжан Жұмабаев ауданының Мағжан ауылдық округі әкімінің аппараты ММ",
+        "code": "480307"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:44:03.054234",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_be3ce1b0-7b3b-4c15-adde-0dbb60d7264f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3348.86,
+      "kbk": {
+        "name": "СО в свою пользу",
+        "code": 902101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "017",
+      "purpose": "Основное_3869",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-28"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:44:14.283633",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_853fab92-586f-4ff0-9906-d114a5506fcc",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4058.46,
+      "kbk": {
+        "name": "СО в свою пользу",
+        "code": 902101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "012",
+      "purpose": "Основное_8521",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-24"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:44:25.401288",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_166dbe52-69e5-401a-a654-db905fb3609f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2492.38,
+      "kbk": {
+        "name": "Доп. пл. недр-ля, осущ. деят. по ктр о разделе прод., и альтернатив. нал. на недр. от орг. нефт. сектора",
+        "code": 105329,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_8109",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "130340004722",
+        "name": "ГУ \"Аппарат акима Алдабергеновского сельского округа Ескельдинского района\"",
+        "code": "700903"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:44:34.794731",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1b2b7ecd-c3f5-4e78-9c5d-7c86830c4d49",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3092.25,
+      "kbk": {
+        "name": "Совокупный таможенный платеж на ввозимые товары",
+        "code": 106105,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_2912",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-21",
+      "ugd": {
+        "bin": "950340000235",
+        "name": "ГУ Аппарат акима Тенизский сельский округ Курмангазинского района",
+        "code": "150310"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:44:45.677353",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_ccdd0870-f26b-4923-9050-9306fac9a239",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 2400.25,
+      "kbk": {
+        "name": "ИПН с доходов, не облагаемых у источника выплаты (ежемесячный)",
+        "code": 101202,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_6399",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-26",
+      "ugd": {
+        "bin": "030140002857",
+        "name": "ГУ Аппарат акима село Тассуат Жаркаинского района",
+        "code": "031704"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:44:57.852771",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_fa5ccbf6-e60c-4f87-9650-cb0a70c37ba1",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9757.11,
+      "kbk": {
+        "name": "Таб-е изд., импорт. на терр. РК с терр. гос., не явл-ся чл. ТС",
+        "code": 105281,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_5766",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-19",
+      "ugd": {
+        "bin": "970140001804",
+        "name": "ГУ Аппарат акима Бауманский сельский округ Узункольского района",
+        "code": "390902"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:45:07.330238",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_25d5198f-99ff-428d-aad7-a0fcc95f19e8",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9436.87,
+      "kbk": {
+        "name": "Суммы % за проср. за неисп, непол. и(или) несвоев. исп. обяз.по перечис. сумм от распред. ввоз. ТП",
+        "code": 106109,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5753",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-06",
+      "ugd": {
+        "bin": "950140001177",
+        "name": "КГУ \"Аппарат акима сельского округа Актобе\"",
+        "code": "330407"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:45:17.736707",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_f7860c72-b788-402e-928d-d0e6639a81cb",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8505.6,
+      "kbk": {
+        "name": "Единый Земельный налог",
+        "code": 104501,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_7408",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": null,
+      "year": 2024,
+      "ugd": {
+        "bin": "021140002283",
+        "name": "РГУ \"УГД по Коргалжынскому району ДГД по Акмолинской области КГД МФ РК\"",
+        "code": "030901"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:45:26.862632",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5e790d75-92cd-4001-ad17-4abf293f7fbc",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7246.27,
+      "kbk": {
+        "name": "Вывозные ТП на сырую нефть",
+        "code": 106110,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_2152",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-23",
+      "ugd": {
+        "bin": "000540003369",
+        "name": "КГУ \"Аппарат акима Актюбинского сельского округа Жуалынского района Жамбылской области\"",
+        "code": "210313"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:45:36.470112",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_accda9b5-8164-4af9-86eb-8676be2fcfce",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3541.96,
+      "kbk": {
+        "name": "ИПН с доходов, не облагаемых у источника выплаты (полугодовой)",
+        "code": 101202,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4241",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-20",
+      "ugd": {
+        "bin": "000440003127",
+        "name": "ГУ \"Аппарат акима сельского округа Ынтымак\"",
+        "code": "582614"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:45:47.758834",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e482d55d-4858-435b-a8e0-86282b849759",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5670.1,
+      "kbk": {
+        "name": "ТП, распред. Кыргызской Республикой",
+        "code": 106117,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9942",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-03-11",
+      "ugd": {
+        "bin": "960540000551",
+        "name": "КГУ \"Аппарат акима сельского округа Дауылколь\"",
+        "code": "330405"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:45:57.673521",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_79b69b10-37f5-44d0-8dcb-b0a1d962f808",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3319.51,
+      "kbk": {
+        "name": "НДС за нерезидента",
+        "code": 105104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_6799",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "010140003217",
+        "name": "ГУ Аппарат акима Приреченский сельский округ Целиноградского района",
+        "code": "031205"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:46:07.371879",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_e7b82028-1064-4ebc-97d0-08048a26ed06",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6442.2,
+      "kbk": {
+        "name": "ТС, упл. в соот. с тамож. зак-м РК",
+        "code": 106201,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3753",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-27",
+      "ugd": {
+        "bin": "981240000953",
+        "name": "РГУ \"УГД по городу Шахтинску ДГД по Карагандинской области КГД МФ РК\"",
+        "code": "301401"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:46:17.052451",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5a1447fe-8ba3-4355-aab9-87d4093fa9de",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1753.28,
+      "kbk": {
+        "name": "Плата за негативное воздействие на окружающую среду",
+        "code": 105316,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_5767",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "000340002333",
+        "name": "ГУ Аппарат акима Заградовский сельский округ Есильского района",
+        "code": "480615"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:46:27.534389",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_ccc45d1d-7d4f-4093-8bf4-985d9881327a",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 5774.13,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат., алк. прод., ввоз. на терр-ю РК с терр-и гос.- членов ТС",
+        "code": 105277,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_1207",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-11",
+      "ugd": {
+        "bin": "940140001046",
+        "name": "ГУ Аппарат акима Нуринский сельский округ Иргизского района",
+        "code": "060704"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:46:36.994473",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_110806b7-ad2e-4c90-95f3-caeab76e39c0",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 9008.9,
+      "kbk": {
+        "name": "Все виды спирта и(или) виномат., алк. прод., импорт. на терр. РК с терр. гос., не явл. чл.ТС",
+        "code": 105280,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9048",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-11",
+      "ugd": {
+        "bin": "130340021544",
+        "name": "ГУ \"Аппарат акима Берекенского сельского округа Балхашского района\"",
+        "code": "090204"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:46:47.519823",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_fd718108-778e-4f4a-afd2-e7e66854aec1",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3714.72,
+      "kbk": {
+        "name": "Плата за предостав. междг. и(или) междн. тел. св., а ткж сот. связи",
+        "code": 105301,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_3248",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "SECOND",
+      "year": 2024,
+      "ugd": {
+        "bin": "021240003304",
+        "name": "КГУ \"Аппарат акима Абылайханского сельского округа Бурабайского района\"",
+        "code": "032411"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:47:00.423292",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_031fbf62-63c4-48e5-9ae7-0f3f7ba08278",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 4620.62,
+      "kbk": {
+        "name": "Рентный налог на экспорт от организаций нефтяного сектора",
+        "code": 105327,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_5889",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "970440002437",
+        "name": "ГУ Аппарат акима Новопокровский сельский округ Успенского района",
+        "code": "451108"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:47:09.865309",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_38da64b8-2c2f-4ca9-9466-5b285eb9f6f8",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7855.19,
+      "kbk": {
+        "name": "Совокупный таможенный платеж на ввозимые товары",
+        "code": 106105,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_9674",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-28",
+      "ugd": {
+        "bin": "970240000979",
+        "name": "РГУ \"УГД по Макатскому району ДГД по Атырауской области КГД МФ РК\"",
+        "code": "150701"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:47:20.841079",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_0d765226-053e-4bda-8705-d26d6e2acb9f",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 3198.97,
+      "kbk": {
+        "name": "Плата за поль-е водными рес-ми поверхностных ист-в",
+        "code": 105303,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1384",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FOURTH",
+      "year": 2024,
+      "ugd": {
+        "bin": "990940001202",
+        "name": "РГУ «УГД по городу Семей ДГД по области Абай  КГД МФ РК»",
+        "code": "711101"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:47:31.945445",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_9718a29d-56e7-4fa4-92f2-dae5975d4bf1",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 7106.82,
+      "kbk": {
+        "name": "Таб. изд, легк. авто (кр.авто. с руч. упр. или адаптером руч. упр., спец. предназ-х для инвал), произ-х на терр. РК",
+        "code": 105275,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_8705",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-02-26",
+      "ugd": {
+        "bin": "991040002538",
+        "name": "КГУ \"Аппарат Акима Кордайского сельского округа Кордайского района Жамбылской области\"",
+        "code": "210420"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:47:42.983359",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_2a41f2b6-ba1b-45a5-b752-ce8e32d22bbd",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 724.43,
+      "kbk": {
+        "name": "Доп. пл. недр-ля, осущ. деят. по ктр о разделе прод., и альтернатив. нал. на недр. от орг. нефт. сектора",
+        "code": 105329,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_8372",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "THIRD",
+      "year": 2024,
+      "ugd": {
+        "bin": "981240001763",
+        "name": "Мамлют ауданының Дубровное ауылдық округі әкімінің аппараты ММ",
+        "code": "480707"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:47:54.441146",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_5914f182-5f45-423e-8975-fcfe0ea9d55d",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1853.28,
+      "kbk": {
+        "name": "Пр. виды подакцизных прод., импор. на терр. РК с терр. гос-в, не явл. чл. ТС",
+        "code": 105282,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_8650",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-03",
+      "ugd": {
+        "bin": "050140007405",
+        "name": "ГУ \"Аппарат акима сельского округа Бозайгыр\" Шортандинского района",
+        "code": "031311"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:48:05.750134",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_efadac15-0947-42d6-853b-ea9ec5352db0",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8481.4,
+      "kbk": {
+        "name": "ТП, распределенные РФ",
+        "code": 106106,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_2857",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-24",
+      "ugd": {
+        "bin": "030840004353",
+        "name": "ГУ Аппарат акима село Коржинколь Егиндыкольского района",
+        "code": "030810"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:48:15.202625",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_1a7260d6-4280-45cc-bde2-88a8b0cf3cb7",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 1678.72,
+      "kbk": {
+        "name": "Социальный налог (полугодовой)",
+        "code": 103101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_3563",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-15",
+      "ugd": {
+        "bin": "050440005281",
+        "name": "ГУ Аппарат акима Терисакканский сельский округ Кобдинского района",
+        "code": "061516"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:48:26.658432",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_8a9d5522-ca51-4e4e-b4c0-0bd80b98ebaf",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 8503.93,
+      "kbk": {
+        "name": "Вывозные ТП на тов., выработанные из нефти",
+        "code": 106111,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_8154",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-03",
+      "ugd": {
+        "bin": "001140002755",
+        "name": "ГУ \"Аппарат акима сельского округа Куркелес Сарыагашского района\"",
+        "code": "581221"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-02T19:48:39.900096",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_25929e6b-b021-42ac-a5f1-b4df8ee57ff4",
+      "ibanDebit": "KZ24886A220120715770",
+      "amount": 6725.58,
+      "kbk": {
+        "name": "ТП, нал. на ввоз. ф/л товары для лич. пол. с прим. ед-х ставок ТП, налогов",
+        "code": 106104,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_4743",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-12-27",
+      "ugd": {
+        "bin": "130340022156",
+        "name": "ГУ Аппарат акима Карасуский сельский округ Аксуского района",
+        "code": "700204"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-03T19:37:55.081238",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_a3b2d4ca-aaa4-436f-96af-b59f8913b5a2",
+      "ibanDebit": "KZ92886A220120705719",
+      "amount": 2570.63,
+      "kbk": {
+        "name": "Рентный налог на экспорт от организаций нефтяного сектора",
+        "code": 105327,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1342",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "990540001199",
+        "name": "РГУ \"УГД по Толебийскому району ДГД по Туркестанской области КГД МФ РК\"",
+        "code": "580901"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-03T19:38:09.587628",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_cf9c293a-2ce9-4dd3-b569-f11507ed305d",
+      "ibanDebit": "KZ92886A220120705719",
+      "amount": 2622.18,
+      "kbk": {
+        "name": "Вз. суммы обес. упл. ТП, нал., пост. из Республики Беларусь",
+        "code": 106115,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_1574",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-09",
+      "ugd": {
+        "bin": "980740002509",
+        "name": "ГУ Аппарат акима Емельтауский сельский округ Аягозского района",
+        "code": "710307"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-03T19:38:21.798734",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_49bdda3a-0162-415f-b93e-518bacc68c25",
+      "ibanDebit": "KZ92886A220120705719",
+      "amount": 5740.25,
+      "kbk": {
+        "name": "Доля РК по разделу прод. по закл. ктр., за иск. поступ. от орг. нефт. сектора",
+        "code": 105308,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "911",
+      "purpose": "Основное_9498",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "quarter": "FIRST",
+      "year": 2025,
+      "ugd": {
+        "bin": "980840003491",
+        "name": "ГУ \"Аппарат акима Кировского сельского округа Глубоковского района Восточно-Казахстанской области\"",
+        "code": "180308"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-03T19:38:33.786589",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_b54a060a-75a5-4698-93e1-683af3bf2baa",
+      "ibanDebit": "KZ92886A220120705719",
+      "amount": 8066.57,
+      "kbk": {
+        "name": "Аван. плат, вн. в соот. с там. закон. ЕЭС и РК, в сч упл. пред. ТП, нал, спец., антидемп., компенс. пошлин, а т.ж в кач. обес. исп. обяз. по уплате ТП, нал, спец, антидемп., компен. пошлин",
+        "code": 106119,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "913",
+      "purpose": "Основное_2702",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-11",
+      "ugd": {
+        "bin": "000840002400",
+        "name": "ГУ \"Аппарат акима сельского округа Кызылкум Шардаринского района\"",
+        "code": "581606"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-03T19:39:27.187061",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_af0f7c7e-1557-4962-aac9-26244bf28a38",
+      "ibanDebit": "KZ92886A220120705719",
+      "amount": 3359.66,
+      "kbk": {
+        "name": "ОПВ в свою пользу",
+        "code": 901101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "019",
+      "purpose": "Основное_1556",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-13"
+    }
+  },
+  {
+    "timestamp": "2025-04-03T19:39:31.567074",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_30aac5e0-abe3-4042-840f-cbf2fe2b99cc",
+      "ibanDebit": "KZ92886A220120705719",
+      "amount": 5986.32,
+      "kbk": {
+        "name": "Пр. виды подакцизной прод., ввоз. на терр. РК с терр. гос.-чл. ТС",
+        "code": 105278,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": true
+      },
+      "knp": "912",
+      "purpose": "Основное_4106",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2025-01-26",
+      "ugd": {
+        "bin": "000440003800",
+        "name": "ГУ \"Аппарат акима сельского округа Акжар Сарыагашского района\"",
+        "code": "581227"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-03T19:40:29.664769",
+    "payload": {
+      "transactionId": "APP_INDNTRTAX_057c2691-0a8d-4e3b-91e7-20bfe08d1105",
+      "ibanDebit": "KZ92886A220120705719",
+      "amount": 2849.43,
+      "kbk": {
+        "name": "СО в свою пользу",
+        "code": 902101,
+        "employeeLoadingRequired": false,
+        "ugdLoadingRequired": false
+      },
+      "knp": "012",
+      "purpose": "Основное_4469",
+      "taxesPaymentOperationType": "INDIVIDUAL_ENTREPRENEUR",
+      "period": "2024-11-25"
+    }
   }
 ]
