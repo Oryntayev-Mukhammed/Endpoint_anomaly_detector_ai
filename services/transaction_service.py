@@ -1,5 +1,5 @@
-from base_api import BaseAPIClient
-from models import Transaction
+from .base_api import BaseAPIClient
+from .models import Transaction
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional
 import json
