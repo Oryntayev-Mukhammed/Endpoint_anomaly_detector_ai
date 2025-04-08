@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 
 from feature_extractor import PaymentFeatureExtractor
 from generate_ideal_transactionDetail import generate_ideal_output
-from services.models import PaymentPayload
+from services.models import PaymentPayload, TransactionDetail
 
 def load_json_file(file_path):
     """Загрузка JSON файла с обработкой кодировки"""
@@ -34,7 +34,7 @@ class PaymentDataset(Dataset):
         return torch.FloatTensor(payload_vec), torch.FloatTensor(transaction_vec)
 
 class PaymentAutoencoder(nn.Module):
-    def __init__(self, input_size=19, hidden_size=64, output_size=38):
+    def __init__(self, input_size=21, hidden_size=64, output_size=37):
         super().__init__()
         self.encoder = nn.Sequential(
             nn.Linear(input_size, hidden_size),
@@ -62,24 +62,31 @@ def train_model():
     # 1. Загрузка и подготовка данных
     try:
         data = load_json_file('successful_payloads.json')
-        payloads = [PaymentPayload(**item['payload']) for item in data]
+        payloads = [PaymentPayload.from_dict(item) for item in data]
     except Exception as e:
         print(f"Ошибка при загрузке данных: {e}")
         return None
     
     # Генерация идеальных транзакций
-    transactions = [generate_ideal_output(payload) for payload in payloads]
+    transactions = [TransactionDetail.from_dict(generate_ideal_output(payload.to_dict(), is_payload=True)) for payload in payloads]
     
     # 2. Разделение данных
     X = [PaymentFeatureExtractor.payload_to_vector(p)['vector'] for p in payloads]
     y = [PaymentFeatureExtractor.transaction_to_vector(t)['vector'] for t in transactions]
     
-    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)
-    
-    # Создаем индексы для разделения
-    train_indices = [i for i in range(len(payloads)) if X[i] in X_train]
-    val_indices = [i for i in range(len(payloads)) if X[i] in X_val]
-    
+    # 2. Создаём список индексов
+    indices = list(range(len(X)))
+
+    # 3. Разделяем именно индексы, а не данные
+    train_indices, val_indices = train_test_split(indices, test_size=0.2, random_state=42)
+
+    # 4. Формируем X_train, X_val, y_train, y_val (если нужно)
+    X_train = [X[i] for i in train_indices]
+    y_train = [y[i] for i in train_indices]
+    X_val   = [X[i] for i in val_indices]
+    y_val   = [y[i] for i in val_indices]
+
+    # 5. Создаём датасеты
     train_dataset = PaymentDataset(
         [payloads[i] for i in train_indices],
         [transactions[i] for i in train_indices]
@@ -99,7 +106,10 @@ def train_model():
     train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
     val_loader = DataLoader(val_dataset, batch_size=32)
     
-    for epoch in range(50):
+    min_train_loss = 10000.0
+    best_model = None
+
+    for epoch in range(500):
         model.train()
         train_loss = 0
         for payload, target in train_loader:
@@ -124,7 +134,11 @@ def train_model():
                 payload, target = payload.to(device), target.to(device)
                 decoded, anomaly_score = model(payload)
                 val_loss += reconstruction_loss(decoded, target).item()
-        
+        if train_loss < min_train_loss:
+            min_train_loss = train_loss
+            best_model = model
+            if epoch % 100 == 0: 
+                torch.save(best_model.state_dict(), f'models/payment_autoencoder_{train_loss/len(train_loader):.4f}.pth')
         print(f'Epoch {epoch+1}: Train Loss: {train_loss/len(train_loader):.4f}, Val Loss: {val_loss/len(val_loader):.4f}')
     
     return model
@@ -142,5 +156,4 @@ if __name__ == "__main__":
     # Запускаем обучение
     trained_model = train_model()
     if trained_model:
-        torch.save(trained_model.state_dict(), 'payment_autoencoder.pth')
-        print("Модель успешно обучена и сохранена")
+        print("Модель успешно обучена")

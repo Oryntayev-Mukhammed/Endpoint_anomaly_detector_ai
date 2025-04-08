@@ -3,8 +3,11 @@ import uuid
 from datetime import datetime
 import numpy as np
 
-def generate_ideal_output(input_data):
-    payload = input_data["payload"]
+def generate_ideal_output(input_data: dict, is_payload=False):
+    if is_payload:
+        payload = input_data
+    else:
+        payload = input_data["payload"]
     
     # Определяем transactionType на основе taxesPaymentOperationType (если есть)
     transaction_type = "EMPLTAX"  # значение по умолчанию
@@ -25,9 +28,15 @@ def generate_ideal_output(input_data):
         period = f"{payment_year}-{get_quarter_end(payload['quarter'])}"
     
     # Обработка UGD (если нет, то ставим None или дефолтные значения)
-    ugd_name = payload["ugd"]["name"] if "ugd" in payload else None
-    ugd_bin = payload["ugd"]["bin"] if "ugd" in payload else None
-    ugd_code = payload["ugd"]["code"] if "ugd" in payload else None
+    ugd_data = payload.get("ugd")
+    if ugd_data:
+        ugd_name = ugd_data["name"]
+        ugd_bin = ugd_data["bin"]
+        ugd_code = ugd_data["code"]
+    else:
+        ugd_name = None
+        ugd_bin = None
+        ugd_code = None
     
     # Обработка KBK (если нет, то ставим пустые строки)
     kbk_name = f"{payload['kbk']['name']}" if "kbk" in payload else ""
@@ -43,8 +52,8 @@ def generate_ideal_output(input_data):
         "transactionType": transaction_type,
         "id": str(uuid.uuid4()),
         "transactionId": payload["transactionId"],
-        "createdDate": input_data["timestamp"][:19],  # Обрезаем миллисекунды
-        "modifiedDate": input_data["timestamp"],
+        "createdDate": payload["timestamp"][:19],  # Обрезаем миллисекунды
+        "modifiedDate": payload["timestamp"],
         "status": "COMPLETED",
         "amount": payload["amount"],
         "anotherAmount": None,
@@ -102,6 +111,7 @@ def get_quarter_end(quarter_str):
 input_example = {
     "timestamp": "2025-04-03T19:38:21.798734",
     "payload": {
+      "timestamp": "2025-04-03T19:38:21.798734",
       "transactionId": "APP_INDNTRTAX_49bdda3a-0162-415f-b93e-518bacc68c25",
       "ibanDebit": "KZ92886A220120705719",
       "amount": 5740.25,
@@ -124,7 +134,7 @@ input_example = {
     }
   }
 
-if __name__ == "___main__":
+if __name__ == "__main__":
     ideal_output = generate_ideal_output(input_example)
     print(len(ideal_output))
     print(json.dumps(ideal_output, indent=2, ensure_ascii=False))

@@ -10,7 +10,7 @@ class PaymentFeatureExtractor:
     """Класс для преобразования PaymentPayload и TransactionDetail в feature vectors"""
     
     @staticmethod
-    def payload_to_vector(payload: 'PaymentPayload') -> Dict[str, Any]:
+    def payload_to_vector(payload: 'PaymentPayload'):
         """Преобразует PaymentPayload в feature vector с метаинформацией"""
         features = {}
         
@@ -90,7 +90,7 @@ class PaymentFeatureExtractor:
         }
     
     @staticmethod
-    def transaction_to_vector(transaction: 'TransactionDetail') -> Dict[str, Any]:
+    def transaction_to_vector(transaction: 'TransactionDetail'):
         """Улучшенная векторизация TransactionDetail с обработкой всех случаев"""
         features = {}
         
