@@ -109,7 +109,7 @@ def train_model():
     min_train_loss = 10000.0
     best_model = None
 
-    for epoch in range(500):
+    for epoch in range(1000):
         model.train()
         train_loss = 0
         for payload, target in train_loader:
@@ -137,8 +137,8 @@ def train_model():
         if train_loss < min_train_loss:
             min_train_loss = train_loss
             best_model = model
-            if epoch % 100 == 0: 
-                torch.save(best_model.state_dict(), f'models/payment_autoencoder_{train_loss/len(train_loader):.4f}.pth')
+        if epoch % 40 == 0 and best_model != None: 
+            torch.save(best_model.state_dict(), f'models/payment_autoencoder_{train_loss/len(train_loader):.4f}.pth')
         print(f'Epoch {epoch+1}: Train Loss: {train_loss/len(train_loader):.4f}, Val Loss: {val_loss/len(val_loader):.4f}')
     
     return model
